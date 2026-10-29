@@ -1,0 +1,45 @@
+{
+  "id": "3f8a6d2e9b17",
+  "title": "Soft Skills for Work",
+  "description": "The people skills that move careers: listening, writing and speaking clearly, feedback, conflict, negotiation, time and focus, decisions and leading others, built on proven frameworks you can use tomorrow.",
+  "image": "cover.png",
+  "file": "soft-skills-at-work.zip",
+  "version": "1.0.0",
+  "tags": [
+    "soft-skills",
+    "workplace",
+    "communication",
+    "leadership",
+    "productivity",
+    "career"
+  ],
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-10-02",
+      "notes": "Initial release - 20 decks, 67 packs, 539 cards."
+    }
+  ],
+  "toc": [
+    "Active Listening",
+    "Clear Speaking and Writing",
+    "Email and Chat Etiquette",
+    "Meetings",
+    "Presenting Ideas",
+    "Body Language and Tone",
+    "Teamwork and Trust",
+    "Giving Feedback",
+    "Receiving Feedback",
+    "Handling Conflict",
+    "Negotiation Basics",
+    "Time Management",
+    "Prioritizing and Saying No",
+    "Focus and Procrastination",
+    "Stress and Burnout",
+    "Goals and Habits",
+    "Problem Solving",
+    "Decision Making and Biases",
+    "Delegating and Motivating",
+    "Managing Up and Career Moves"
+  ]
+}

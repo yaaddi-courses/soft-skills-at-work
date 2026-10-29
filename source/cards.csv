@@ -1,0 +1,598 @@
+id,unit_id,type,role,related_main_id,prompt,options,correct_index,image,audio,explanation
+1,1,true_false,preview,2,Listening is more than staying silent.,,true,,,True. It takes active effort.
+2,1,multiple_choice,main,,What is active listening?,Full attention|Waiting to speak|Multitasking,0,,,"Active listening means giving someone your full attention and showing you understand, instead of waiting for your turn to speak."
+3,1,true_false,exercise,2,Phones away supports active listening.,,true,,,True. Full attention means removing distractions.
+4,1,select_blank,exercise,2,Active listening needs your full ___.,voice|attention|opinion,1,,,Give the speaker your full attention.
+5,1,multiple_choice,exercise,2,Which is active listening?,Checking email|Interrupting|Eye contact,2,,,Looking at the speaker shows you are engaged.
+6,1,true_false,exercise,2,Planning your reply shows active listening.,,false,,,False. Planning your reply means you are not fully listening.
+7,1,multiple_choice,exercise,2,What breaks full attention?,Interrupting|Nodding|Asking questions,0,,,Interrupting breaks the speaker's flow.
+8,1,select_blank,exercise,2,"Listen to ___, not just to reply.",argue|understand|win,1,,,The goal is understanding.
+9,1,true_false,preview,10,You can prove you listened.,,true,,,True. Say it back in your own words.
+10,1,multiple_choice,main,,What is paraphrasing?,Writing down|Ignoring|Restating,2,,,"Paraphrasing is repeating what someone said in your own words to check you understood. Summarizing, nodding and eye contact also show you listen."
+11,1,true_false,exercise,10,Paraphrasing checks understanding.,,true,,,True. The speaker can confirm or correct you.
+12,1,select_blank,exercise,10,Paraphrase in your own ___.,words|time|voice,0,,,"Use your own words, not a copy."
+13,1,multiple_choice,exercise,10,Which is summarizing?,Full repeat|Short recap|New topic,1,,,A short recap shows you caught the main points.
+14,1,true_false,exercise,10,Eye contact shows you are listening.,,true,,,True. It signals attention.
+15,1,multiple_choice,exercise,10,Which shows attention?,Yawning|Scrolling|Nodding,2,,,Nodding shows you are following.
+16,1,select_blank,exercise,10,Summarizing gives a short ___.,recap|script|question,0,,,Summarizing confirms you got the main ideas.
+17,1,true_false,preview,18,Some questions get longer answers.,,true,,,True. Open ones invite more.
+18,1,multiple_choice,main,,Which question is open?,Done yet?|What happened?|Finished?,1,,,An open-ended question needs more than yes or no and invites the other person to explain. A closed question gets a short answer.
+19,1,multiple_choice,exercise,18,Which is closed?,What happened?|Why that?|Done yet?,2,,,A closed question can be answered with yes or no.
+20,1,true_false,exercise,18,Open questions start with what or how.,,true,,,True. They invite detail.
+21,1,select_blank,exercise,18,A closed question gets a short ___.,answer|meeting|email,0,,,Yes or no is typical.
+22,1,true_false,exercise,18,Open questions can be answered with yes.,,false,,,False. They need explanation.
+23,1,multiple_choice,exercise,18,Which draws out more?,Closed question|Open question|Silence,1,,,Open questions invite longer answers.
+24,1,select_blank,exercise,18,Ask ___ questions to learn more.,closed|tricky|open-ended,2,,,Open-ended questions invite detail.
+25,2,true_false,preview,26,Busy readers want the main point first.,,true,,,True. That is BLUF.
+26,2,multiple_choice,main,,What does BLUF mean?,Point first|Point last|Be loud,0,,,"BLUF means bottom line up front: lead with the conclusion or request, then the details."
+27,2,true_false,exercise,26,BLUF puts details before the point.,,false,,,False. The conclusion comes first.
+28,2,multiple_choice,exercise,26,Where does the request go?,End|Start|Nowhere,1,,,Lead with what you need.
+29,2,select_blank,exercise,26,BLUF puts the ___ first.,story|apology|conclusion,2,,,Start with the main point.
+30,2,true_false,exercise,26,BLUF saves the reader time.,,true,,,True. They see what matters straight away.
+31,2,multiple_choice,exercise,26,Which opening uses BLUF?,Approve today|Hello all|Quick note,0,,,It states the request immediately.
+32,2,select_blank,exercise,26,Lead with the ___ line.,top|bottom|side,1,,,Bottom line up front.
+33,2,true_false,preview,34,Short messages get read.,,true,,,True. Long ones get skimmed.
+34,2,multiple_choice,main,,Which message is better?,Five ideas|Long story|One idea,2,,,Keep one idea per message: cut filler words and use plain words so the point is not lost.
+35,2,true_false,exercise,34,Filler words add clarity.,,false,,,False. Cutting filler makes messages clearer.
+36,2,select_blank,exercise,34,"Use ___ words, not jargon.",plain|fancy|rare,0,,,Plain words are understood by everyone.
+37,2,multiple_choice,exercise,34,Which is plainer?,Utilize|Use|Leverage,1,,,Short common words are easier to read.
+38,2,true_false,exercise,34,Jargon beats plain words always.,,false,,,False. It can confuse them.
+39,2,multiple_choice,exercise,34,Which is filler?,"Deadline|Name|Really, just",2,,,Words like really and just add little.
+40,2,select_blank,exercise,34,Cut ___ words to be clear.,filler|key|useful,0,,,Filler words slow the reader down.
+41,2,true_false,preview,42,A vague request gets a vague result.,,true,,,True. Be specific.
+42,2,multiple_choice,main,,Which is clear?,Send soon|Report by Friday|Do something,1,,,"A clear request has a specific ask, a deadline and a reason."
+43,2,true_false,exercise,42,A deadline helps the other person plan.,,true,,,True. They know when you need it.
+44,2,select_blank,exercise,42,Always give a ___ for the request.,joke|guess|reason,2,,,A reason explains why it matters.
+45,2,multiple_choice,exercise,42,What makes an ask specific?,Exact task|Hints|Silence,0,,,Name exactly what you need.
+46,2,true_false,exercise,42,'Soon' is a clear deadline.,,false,,,False. Use an actual date or time.
+47,2,multiple_choice,exercise,42,Which has a deadline?,Sometime|By 3 p.m.|When free,1,,,A time gives a clear target.
+48,2,select_blank,exercise,42,A clear ask names the task and ___.,mood|weather|deadline,2,,,A date or time makes it clear.
+49,3,true_false,preview,50,A subject line decides if email is read.,,true,,,True. Make it useful.
+50,3,multiple_choice,main,,Best subject line?,Approve budget Friday|Hello|Quick question,0,,,A good subject line says what the email is about and the action needed.
+51,3,true_false,exercise,50,Vague subject lines get ignored.,,true,,,True. Be specific.
+52,3,multiple_choice,exercise,50,'Action needed' means?,Info only|You must act|Spam,1,,,It tells the reader to do something.
+53,3,select_blank,exercise,50,Put the action in the ___ line.,closing|footer|subject,2,,,Readers see the subject first.
+54,3,true_false,exercise,50,'Hi' is a strong subject line.,,false,,,False. It says nothing about the content.
+55,3,multiple_choice,exercise,50,Which subject is vague?,Quick question|Invoice due|Meeting moved,0,,,It does not say what the question is.
+56,3,select_blank,exercise,50,A good subject says what and ___.,who|when|why not,1,,,Include the action and the date.
+57,3,true_false,preview,58,Different messages suit different tools.,,true,,,True. Pick the right channel.
+58,3,multiple_choice,main,,Which channel for a quick question?,Letter|Report|Chat,2,,,"Choosing the channel: chat suits quick questions, email suits records, calls suit sensitive topics. Urgent is not always important."
+59,3,multiple_choice,exercise,58,Best for sensitive topics?,A call|Group chat|A text,0,,,Tone and emotion are easier to read in a call.
+60,3,true_false,exercise,58,Email creates a written record.,,true,,,True. It is good for decisions.
+61,3,select_blank,exercise,58,Channel for complex talk: ___.,text|call|memo,1,,,Talking helps with complex topics.
+62,3,true_false,exercise,58,Urgent always means important.,,false,,,False. Something can be urgent but not important.
+63,3,multiple_choice,exercise,58,Which is urgent?,Yearly plan|Tidy desk|Server down,2,,,It needs immediate attention.
+64,3,multiple_choice,exercise,58,Long chat thread? Choose a ___.,Call|More replies|Emoji,0,,,A short call can resolve it faster.
+65,3,true_false,preview,66,How you say it matters as much as what.,,true,,,True. Tone carries feelings.
+66,3,multiple_choice,main,,What is tone?,Font style|Attitude in writing|Length,1,,,"Tone is the attitude your words convey, easily misread in writing. Reply all etiquette: use it only when everyone needs it."
+67,3,true_false,exercise,66,Capital letters can sound angry in tone.,,true,,,True. They read as shouting.
+68,3,multiple_choice,exercise,66,Politer tone?,Send now.|You forgot.|Could you send?,2,,,A polite request keeps goodwill.
+69,3,select_blank,exercise,66,Reply ___ only when needed.,all|none|twice,0,,,Others do not need every reply.
+70,3,true_false,exercise,66,Everyone needs every reply-all.,,false,,,False. It fills inboxes.
+71,3,multiple_choice,exercise,66,"Before reply-all, ask?",Who's faster?|Who needs it?|Who's wrong?,1,,,Include only people who need it.
+72,3,select_blank,exercise,66,Written ___ is easy to misread.,font|length|tone,2,,,"Without voice, tone can be misunderstood."
+73,3,true_false,preview,74,Listening and writing build trust.,,true,,,True. Review the basics.
+74,3,multiple_choice,main,,Which describes active listening?,Full attention|Waiting to speak|Multitasking,0,,,Active listening means giving the speaker your full attention.
+75,3,multiple_choice,exercise,74,What is paraphrasing?,Writing it down|Saying it back|Ignoring,1,,,It means restating in your own words.
+76,3,true_false,exercise,74,BLUF puts the point first.,,true,,,True. Bottom line up front.
+77,3,select_blank,exercise,74,A good ___ line says what you need.,closing|name|subject,2,,,Make the subject specific.
+78,3,multiple_choice,exercise,74,Which tone is better?,Polite|Sharp|Silent,0,,,Polite tone keeps goodwill.
+79,3,true_false,exercise,74,Open questions get yes or no.,,false,,,False. Closed questions do.
+80,3,multiple_choice,exercise,74,Which question invites detail?,Done yet?|What happened?|Finished?,1,,,It invites explanation.
+81,3,match_pairs,exercise,74,"Match each term, round 1.",Active listening↔Full attention|Paraphrasing↔Saying it back|Open-ended question↔Invites explanation|BLUF↔Point first,,,,Each term goes with its short meaning.
+82,4,true_false,preview,83,Not every meeting needs to happen.,,true,,,True. Some should be an email.
+83,4,multiple_choice,main,,What makes a meeting worth it?,Free snacks|Large crowd|Clear purpose,2,,,"A meeting needs a clear purpose, an agenda and the right attendees: only people who need to be there."
+84,4,true_false,exercise,83,Every update needs a meeting.,,false,,,False. Many updates fit an email.
+85,4,select_blank,exercise,83,An ___ lists the topics.,agenda|invoice|audit,0,,,An agenda lists topics and timings.
+86,4,multiple_choice,exercise,83,Who should attend?,Everyone|Needed people|No one,1,,,Invite only those who need to be there.
+87,4,true_false,exercise,83,A purpose helps people prepare.,,true,,,True. They know what to expect.
+88,4,multiple_choice,exercise,83,Send the agenda ___.,Afterwards|Never|Beforehand,2,,,Sharing it early lets people prepare.
+89,4,select_blank,exercise,83,A meeting without a ___ is a waste.,purpose|table|break,0,,,State the goal up front.
+90,4,true_false,preview,91,Someone has to steer the meeting.,,true,,,True. That is facilitating.
+91,4,multiple_choice,main,,What does facilitating mean?,Taking notes|Guiding discussion|Presenting alone,1,,,A facilitator guides the discussion so everyone contributes and the meeting meets its purpose. Time-boxing limits each topic; a parking lot holds off-topic ideas.
+92,4,multiple_choice,exercise,91,What is time-boxing?,Extra time|No time|Limiting time,2,,,Each item gets a fixed amount of time.
+93,4,multiple_choice,exercise,91,What is a parking lot?,Off-topic list|Car space|Break time,0,,,Off-topic ideas are noted for later.
+94,4,true_false,exercise,91,Good facilitating means talking the most.,,false,,,False. They draw out others.
+95,4,select_blank,exercise,91,Off-topic ideas go in the parking ___.,bay|lot|list,1,,,It keeps the meeting on track.
+96,4,true_false,exercise,91,Time-boxing keeps meetings short.,,true,,,True. Each topic has a limit.
+97,4,select_blank,exercise,91,A facilitator keeps discussion on ___.,fire|hold|track,2,,,They steer the conversation.
+98,4,true_false,preview,99,Meetings only matter if things get done.,,true,,,True. Capture actions.
+99,4,multiple_choice,main,,What is an action item?,Agreed task|A topic|A break,0,,,"Action items are tasks agreed in a meeting, each with an owner and deadline. Meeting notes record decisions."
+100,4,true_false,exercise,99,Each action needs one owner.,,true,,,True. Shared ownership means no ownership.
+101,4,select_blank,exercise,99,An action item needs an owner and a ___.,snack|deadline|chair,1,,,Name who and by when.
+102,4,multiple_choice,exercise,99,Send notes ___ the meeting.,Before|Never|After,2,,,Notes should follow soon after.
+103,4,true_false,exercise,99,Notes should record decisions.,,true,,,True. They capture what was agreed.
+104,4,multiple_choice,exercise,99,Who owns an action item for everyone?,No one|The boss|Everyone,0,,,"If everyone owns it, nobody does."
+105,4,select_blank,exercise,99,Notes list decisions and ___ items.,side|action|random,1,,,Actions come with owners.
+106,5,true_false,preview,107,A good talk has a clear shape.,,true,,,"True. Start, middle, end."
+107,5,multiple_choice,main,,How many key points work best?,Ten|One hundred|Three,2,,,"A strong talk has an opening, about three key points and a call to action. Three points are easier to remember."
+108,5,true_false,exercise,107,A talk should end with an action.,,true,,,True. Tell people what to do next.
+109,5,select_blank,exercise,107,End with a call to ___.,action|arms|order,0,,,A call to action says what you want.
+110,5,multiple_choice,exercise,107,What does an opening do?,Ends talk|Hooks interest|Lists data,1,,,It gets the audience interested.
+111,5,true_false,exercise,107,More points are always better.,,false,,,False. Too many are forgotten.
+112,5,multiple_choice,exercise,107,Which should you start with?,An apology|Details|A hook,2,,,A hook grabs attention.
+113,5,select_blank,exercise,107,Make ___ key points.,three|twenty|no,0,,,Three is easy to remember.
+114,5,true_false,preview,115,Nerves are normal before a talk.,,true,,,True. Preparation helps.
+115,5,multiple_choice,main,,What reduces nerves most?,Skipping practice|Preparation|Coffee,1,,,Preparing well and practising out loud build confidence. Slow breathing calms your body.
+116,5,true_false,exercise,115,Practising out loud helps.,,true,,,True. Your mouth learns the words.
+117,5,select_blank,exercise,115,Slow breathing helps you ___.,panic|freeze|calm down,2,,,Slow breathing calms your body.
+118,5,multiple_choice,exercise,115,Which is a good habit?,Rehearse aloud|Read silently|Skip practice,0,,,Saying it aloud reveals rough spots.
+119,5,true_false,exercise,115,Nerves mean you will fail.,,false,,,False. Nerves are normal and manageable.
+120,5,multiple_choice,exercise,115,When is preparation done?,On stage|Ahead|Never,1,,,Preparation reduces anxiety.
+121,5,select_blank,exercise,115,Practise out ___.,late|front|loud,2,,,Rehearsing aloud builds confidence.
+122,5,true_false,preview,123,Tough questions are part of presenting.,,true,,,True. Stay calm.
+123,5,multiple_choice,main,,What should you do first?,Pause|Interrupt|Guess,0,,,"Pause before answering. If you don't know yet, say so and promise to follow up. Bridge back to your main message."
+124,5,true_false,exercise,123,It is fine to say 'I'll find out'.,,true,,,True. Honesty builds trust.
+125,5,multiple_choice,exercise,123,What is bridging back?,Avoiding|Returning to your point|Arguing,1,,,You link the answer back to your message.
+126,5,select_blank,exercise,123,Say 'I don't know ___.',why|you|yet,2,,,Then promise to follow up.
+127,5,true_false,exercise,123,Inventing an answer beats saying you don't know.,,false,,,False. Wrong answers hurt credibility.
+128,5,multiple_choice,exercise,123,A pause shows ___.,Thought|Weakness|Fear,0,,,Pausing looks confident and thoughtful.
+129,5,select_blank,exercise,123,Bridge ___ to your main message.,out|back|down,1,,,Return to your key point.
+130,6,true_false,preview,131,Your body talks before you do.,,true,,,True. People read posture.
+131,6,multiple_choice,main,,Which posture looks confident?,Slouched|Hidden|Upright,2,,,Standing or sitting upright and open looks confident. Eye contact and natural gestures support your words.
+132,6,true_false,exercise,131,Closed posture can seem defensive.,,true,,,True. Open posture is friendlier.
+133,6,select_blank,exercise,131,Make ___ contact with your audience.,eye|hand|phone,0,,,Eye contact builds connection.
+134,6,multiple_choice,exercise,131,Which gesture helps?,Frantic|Natural|None at all,1,,,Natural gestures emphasize points.
+135,6,true_false,exercise,131,Fidgeting gestures help your message.,,false,,,False. It distracts people.
+136,6,multiple_choice,exercise,131,What does slouching posture signal?,Confidence|Respect|Low energy,2,,,It can look disengaged.
+137,6,select_blank,exercise,131,Open ___ looks welcoming.,posture|files|email,0,,,Open body language invites trust.
+138,6,true_false,preview,139,Your voice shapes how you are heard.,,true,,,"True. Pace, volume and pitch."
+139,6,multiple_choice,main,,A good pace is?,Racing|Steady|Mumbled,1,,,"A steady pace, clear volume and varied pitch keep listeners engaged. Pausing gives them time to think."
+140,6,true_false,exercise,139,Speaking too fast loses listeners.,,true,,,True. They cannot keep up.
+141,6,select_blank,exercise,139,Vary your ___ to avoid sounding flat.,desk|slides|pitch,2,,,Pitch is how high or low your voice is.
+142,6,multiple_choice,exercise,139,Which volume works?,Clear|Silent|Shouting,0,,,Everyone should hear you comfortably.
+143,6,true_false,exercise,139,A monotone voice holds attention.,,false,,,False. It loses the audience.
+144,6,multiple_choice,exercise,139,What does a pause do?,Wastes time|Emphasizes|Annoys,1,,,Pauses give emphasis and thinking time.
+145,6,select_blank,exercise,139,Control your ___ to stay clear.,desk|mouse|pace,2,,,Slow down for key points.
+146,6,true_false,preview,147,Video calls have their own habits.,,true,,,True. Small tweaks help.
+147,6,multiple_choice,main,,Where should the camera be?,Eye level|Below chin|Ceiling,0,,,Put the camera at eye level and look at the lens. Good mute etiquette: mute when not speaking.
+148,6,true_false,exercise,147,Mute when you are not speaking.,,true,,,True. It cuts background noise.
+149,6,select_blank,exercise,147,Look at the ___ to make eye contact.,screen|lens|desk,1,,,The lens feels like eye contact to others.
+150,6,multiple_choice,exercise,147,Why mute?,Save power|Hide|Reduce noise,2,,,Background noise distracts everyone.
+151,6,true_false,exercise,147,Low camera angles flatter everyone.,,false,,,False. They look up your nose.
+152,6,multiple_choice,exercise,147,What helps video presence?,Good light|Dark room|Back light,0,,,Light on your face helps others see you.
+153,6,select_blank,exercise,147,Raise the camera to eye ___.,line|level|height,1,,,Eye level is natural.
+154,6,true_false,preview,155,Clear communication is a habit.,,true,,,True. Review the key ideas.
+155,6,multiple_choice,main,,BLUF puts the point where?,Last|Nowhere|First,2,,,Bottom line up front.
+156,6,multiple_choice,exercise,155,Which describes an action item?,Agreed task|A topic|A break,0,,,It is a task agreed in a meeting.
+157,6,true_false,exercise,155,Active listening needs full attention.,,true,,,True. Remove distractions.
+158,6,select_blank,exercise,155,Tone is easily ___ in writing.,heard|misread|seen,1,,,"Without a voice, tone can be misunderstood."
+159,6,multiple_choice,exercise,155,Which asks for explanation?,Done yet?|Finished?|What happened?,2,,,It invites explanation.
+160,6,true_false,exercise,155,A talk needs a call to action.,,true,,,True. Tell people what to do next.
+161,6,multiple_choice,exercise,155,Which shows you listened?,Paraphrasing|Interrupting|Texting,0,,,Restating shows you understood.
+162,7,true_false,preview,163,Teams change as they grow together.,,true,,,True. Tuckman described four stages.
+163,7,multiple_choice,main,,Which stage comes first?,Storming|Forming|Performing,1,,,"Tuckman's stages are forming, storming, norming and performing. In forming, members meet and are polite."
+164,7,multiple_choice,exercise,163,Which stage has conflict?,Forming|Norming|Storming,2,,,"In storming, ideas clash and tension appears."
+165,7,multiple_choice,exercise,163,Which stage settles roles?,Norming|Storming|Forming,0,,,"In norming, the team agrees on how to work together."
+166,7,multiple_choice,exercise,163,Which stage is most productive?,Forming|Performing|Storming,1,,,"In performing, the team works smoothly toward goals."
+167,7,true_false,exercise,163,Storming is a sign of failure.,,false,,,False. Most teams go through conflict.
+168,7,select_blank,exercise,163,The last of the four stages is ___.,forming|storming|performing,2,,,Performing is the fourth stage.
+169,7,true_false,exercise,163,Teams skip no stages.,,true,,,True. Most teams pass through all four.
+170,7,multiple_choice,exercise,163,Which stage is polite and cautious?,Forming|Norming|Performing,0,,,"In forming, members are still getting to know each other."
+171,7,select_blank,exercise,163,Teams move from storming to ___.,forming|norming|ending,1,,,Norming follows storming.
+172,7,true_false,preview,173,People share ideas when they feel safe.,,true,,,True. Safety enables honesty.
+173,7,multiple_choice,main,,What is psychological safety?,Physical safety|Job security|Speak freely,2,,,"Psychological safety is a shared belief that speaking up, asking questions or admitting mistakes is safe from punishment or embarrassment."
+174,7,true_false,exercise,173,Safe teams admit mistakes openly.,,true,,,True. Mistakes become lessons.
+175,7,select_blank,exercise,173,Psychological ___ lets people speak up.,safety|salary|status,0,,,It is a feeling of safety to be honest.
+176,7,multiple_choice,exercise,173,What builds safety?,Mocking mistakes|Thanking questions|Blaming,1,,,Welcoming questions makes people willing to speak.
+177,7,true_false,exercise,173,Blame builds psychological safety.,,false,,,False. Blame makes people hide problems.
+178,7,multiple_choice,exercise,173,Why avoid speaking up?,Agreement|Boredom|Fear,2,,,People may stay quiet when they feel unsafe.
+179,7,select_blank,exercise,173,Leaders should invite ___ up.,speaking|turning|giving,0,,,Ask for ideas and concerns.
+180,7,true_false,preview,181,Trust grows slowly and breaks fast.,,true,,,True. Small actions count.
+181,7,multiple_choice,main,,What builds trust fastest?,Making excuses|Keeping promises|Avoiding,1,,,"Trust grows when you keep promises, are transparent about information and admit mistakes quickly."
+182,7,true_false,exercise,181,Admitting mistakes damages trust.,,false,,,False. Owning mistakes builds trust.
+183,7,select_blank,exercise,181,Be ___ about problems.,silent|vague|transparent,2,,,Share information openly.
+184,7,multiple_choice,exercise,181,A missed promise needs ___.,Early notice|Silence|Excuses,0,,,Warn people as soon as you know.
+185,7,true_false,exercise,181,Small promises matter for trust.,,true,,,True. Reliability is built in small ways.
+186,7,multiple_choice,exercise,181,Which hurts trust?,Honesty|Hiding errors|Reliability,1,,,Hiding mistakes is worse than the mistake.
+187,7,select_blank,exercise,181,Own your ___.,luck|tricks|mistakes,2,,,Admitting errors builds credibility.
+188,8,true_false,preview,189,Good feedback is concrete.,,true,,,True. A simple model helps.
+189,8,multiple_choice,main,,What is the I in SBI?,Impact|Idea|Interest,0,,,"The SBI model has three steps: describe the Situation, the specific Behavior you saw, and its Impact."
+190,8,multiple_choice,exercise,189,Which step names the effect?,Situation|Impact|Behavior,1,,,Impact explains the effect of the behavior.
+191,8,true_false,exercise,189,SBI judges the person's character.,,false,,,"False. It describes behavior, not character."
+192,8,select_blank,exercise,189,Describe the ___ you observed.,mood|motive|behavior,2,,,Stick to what you saw or heard.
+193,8,multiple_choice,exercise,189,Which opens SBI?,Situation|Impact|Judgment,0,,,Start by setting the scene.
+194,8,true_false,exercise,189,SBI keeps feedback factual.,,true,,,True. It avoids assumptions.
+195,8,select_blank,exercise,189,SBI ends with the ___.,situation|impact|blame,1,,,The impact is the effect of the behavior.
+196,8,true_false,preview,197,Vague praise teaches nothing.,,true,,,True. Be specific.
+197,8,multiple_choice,main,,Which praise is better?,Good job|Nice|Clear report layout,2,,,"Be specific: say exactly what was good. Give timely feedback focused on behavior, not character."
+198,8,true_false,exercise,197,Feedback works best soon after.,,true,,,True. Timely feedback is easier to use.
+199,8,select_blank,exercise,197,Give feedback ___ the event.,soon after|months after|never,0,,,Do it while it is fresh.
+200,8,multiple_choice,exercise,197,Focus on the ___.,Person|Behavior|Past,1,,,Behavior can change; character is judged.
+201,8,true_false,exercise,197,'You are lazy' is useful feedback.,,false,,,"False. It attacks the person, not the behavior."
+202,8,multiple_choice,exercise,197,Which is behavior-focused?,Careless|Lazy|Late twice,2,,,It describes something observable.
+203,8,select_blank,exercise,197,Specific feedback names the ___.,action|mood|rank,0,,,Say exactly what was done.
+204,8,true_false,preview,205,Looking forward can help more than looking back.,,true,,,True. That is feedforward.
+205,8,multiple_choice,main,,What is feedforward?,Past blame|Future suggestions|Praise,1,,,"Feedforward gives future-focused suggestions: what someone can do better next time, not what went wrong."
+206,8,true_false,exercise,205,Feedforward dwells on past errors.,,false,,,False. It looks ahead.
+207,8,select_blank,exercise,205,Feedforward suggests ___ steps.,past|random|future,2,,,It offers ideas for next time.
+208,8,multiple_choice,exercise,205,Which is feedforward?,Try this|You failed|Never again,0,,,It suggests what to do next.
+209,8,true_false,exercise,205,Feedforward feels less defensive.,,true,,,"True. People hear ideas, not blame."
+210,8,multiple_choice,exercise,205,Feedforward focuses on ___.,The past|The future|Gossip,1,,,It is about what happens next.
+211,8,select_blank,exercise,205,Suggest ideas for next ___.,year|hour|time,2,,,Keep it forward-looking.
+212,9,true_false,preview,213,Receiving feedback is a skill.,,true,,,True. Stay curious.
+213,9,multiple_choice,main,,What should you do first?,Listen|Defend|Argue,0,,,"Listen first without interrupting. Ask for examples if unclear, and thank the giver."
+214,9,true_false,exercise,213,Asking for examples is helpful.,,true,,,True. It makes feedback concrete.
+215,9,select_blank,exercise,213,Thank the ___.,boss|giver|team,1,,,Gratitude encourages more feedback.
+216,9,multiple_choice,exercise,213,"If unclear, ask for ___.",Excuses|Credit|Examples,2,,,Examples make it actionable.
+217,9,true_false,exercise,213,Defend yourself immediately.,,false,,,False. Listen first.
+218,9,multiple_choice,exercise,213,Which reply shows you listen first?,Say more|That's wrong|Not mine,0,,,It invites detail and keeps goodwill.
+219,9,select_blank,exercise,213,Listen ___ responding.,after|before|without,1,,,Hear it all first.
+220,9,true_false,preview,221,Beliefs about ability shape effort.,,true,,,True. Mindsets matter.
+221,9,multiple_choice,main,,What is a growth mindset?,Skills fixed|Luck rules|Skills grow,2,,,"A growth mindset is the belief that your abilities can improve with effort, learning and feedback. A fixed mindset says they cannot."
+222,9,multiple_choice,exercise,221,Which is fixed mindset?,Can't learn|Try again|Teach me,0,,,A fixed mindset sees ability as unchangeable.
+223,9,true_false,exercise,221,Mistakes are learning with a growth mindset.,,true,,,True. Setbacks become information.
+224,9,select_blank,exercise,221,A growth mindset embraces ___.,avoidance|challenge|luck,1,,,Challenges help you grow.
+225,9,true_false,exercise,221,A fixed mindset says talent alone decides.,,true,,,False. Effort and learning matter.
+226,9,multiple_choice,exercise,221,A growth mindset says 'not ___'.,Ever|Now|Yet,2,,,Not yet means you can still learn it.
+227,9,select_blank,exercise,221,A ___ mindset avoids challenge.,fixed|growth|open,0,,,A fixed mindset fears failure.
+228,9,true_false,preview,229,Healthy teams talk and learn.,,true,,,True. Review the key ideas.
+229,9,multiple_choice,main,,Which stage brings clashes?,Forming|Storming|Norming,1,,,Storming is when ideas clash.
+230,9,multiple_choice,exercise,229,What is psychological safety?,Job security|Pay|Safe to speak,2,,,People can speak up without punishment.
+231,9,multiple_choice,exercise,229,What does SBI start with?,Situation|Impact|Blame,0,,,"Situation, Behavior, Impact."
+232,9,true_false,exercise,229,Feedforward focuses on the future.,,true,,,True. It suggests next steps.
+233,9,select_blank,exercise,229,A ___ mindset believes skills can grow.,fixed|growth|closed,1,,,That is a growth mindset.
+234,9,multiple_choice,exercise,229,Which stage works best?,Storming|Forming|Performing,2,,,Teams work smoothly in performing.
+235,9,true_false,exercise,229,Vague praise helps people improve.,,false,,,False. Be specific.
+236,9,match_pairs,exercise,229,"Match each term, round 1.",Tuckman's stages↔Four team stages|Psychological safety↔Safe to speak|SBI model↔Behavior feedback steps,,,,Each term goes with its short meaning.
+237,10,true_false,preview,238,Conflict is normal at work.,,true,,,True. Understand its causes.
+238,10,multiple_choice,main,,Which causes conflict?,Unclear roles|Clear plans|Good notes,0,,,"Common causes include unclear roles, competing goals and miscommunication."
+239,10,true_false,exercise,238,Unclear roles cause overlap.,,true,,,True. People step on each other's work.
+240,10,select_blank,exercise,238,Competing ___ cause clashes.,chairs|goals|lunches,1,,,Teams chasing different targets collide.
+241,10,multiple_choice,exercise,238,A misunderstanding is?,Strategy|Agenda|Miscommunication,2,,,Messages were unclear or misheard.
+242,10,true_false,exercise,238,Conflict always means bad people.,,false,,,False. Often the system is unclear.
+243,10,multiple_choice,exercise,238,Which prevents conflict?,Clear roles|More meetings|Silence,0,,,Defined roles reduce overlap.
+244,10,select_blank,exercise,238,Clarify ___ early.,lunches|roles|seats,1,,,Know who owns what.
+245,10,true_false,preview,246,There are five common conflict styles.,,true,,,True. They are the Thomas-Kilmann modes.
+246,10,multiple_choice,main,,Which style seeks a win-win?,Competing|Avoiding|Collaborating,2,,,"The Thomas-Kilmann modes are competing, collaborating, compromising, avoiding and accommodating. Collaborating works with others to meet everyone's needs."
+247,10,multiple_choice,exercise,246,Which style gives in?,Accommodating|Competing|Avoiding,0,,,Accommodating puts the other person's needs first.
+248,10,multiple_choice,exercise,246,Which style dodges the issue?,Competing|Avoiding|Collaborating,1,,,Avoiding postpones or ignores conflict.
+249,10,multiple_choice,exercise,246,Which style splits the difference?,Competing|Avoiding|Compromising,2,,,Each side gives up something.
+250,10,multiple_choice,exercise,246,Which style pushes to win?,Competing|Accommodating|Compromising,0,,,Competing puts your own goals first.
+251,10,true_false,exercise,246,Collaborating needs openness.,,true,,,True. Both sides share needs.
+252,10,select_blank,exercise,246,Splitting the difference is ___.,avoiding|compromising|competing,1,,,Each side gives some ground.
+253,10,true_false,exercise,246,Avoiding is always best.,,false,,,False. Problems often grow if ignored.
+254,10,multiple_choice,exercise,246,Which style suits an emergency?,Accommodating|Avoiding|Competing,2,,,Fast decisive action may be needed.
+255,10,select_blank,exercise,246,Five styles are called ___ modes.,Thomas-Kilmann|Newton|Taylor,0,,,Thomas and Kilmann described them.
+256,10,multiple_choice,exercise,246,Which keeps peace short term?,Competing|Accommodating|Collaborating,1,,,It avoids friction but may hide needs.
+257,10,true_false,preview,258,Behind every demand is a need.,,true,,,True. Find the interest.
+258,10,multiple_choice,main,,Interest-based talks focus on?,Demands|Winning|Needs,2,,,"Focus on interests, not positions: what each side needs and why. Separate the people from the problem."
+259,10,multiple_choice,exercise,258,A position is ___.,Your demand|Your reason|Your job,0,,,A position is the stated demand.
+260,10,true_false,exercise,258,Interests explain the reasons.,,true,,,True. Reasons reveal options.
+261,10,select_blank,exercise,258,Separate the ___ from the problem.,plan|people|goal,1,,,"Attack the problem, not the person."
+262,10,true_false,exercise,258,Fighting over positions finds solutions.,,false,,,False. It entrenches both sides.
+263,10,multiple_choice,exercise,258,Ask ___ to find interests.,Who|When|Why,2,,,Why reveals the need behind a demand.
+264,10,select_blank,exercise,258,"Focus on ___, not positions.",interests|titles|numbers,0,,,Needs create more options.
+265,11,true_false,preview,266,Know your fallback before you negotiate.,,true,,,True. It is your BATNA.
+266,11,multiple_choice,main,,What is BATNA?,Best offer|Best alternative|Final price,1,,,BATNA is your best alternative to a negotiated agreement: your walk-away point if you cannot reach a deal.
+267,11,true_false,exercise,266,A strong BATNA gives you leverage.,,true,,,True. You can walk away.
+268,11,select_blank,exercise,266,BATNA is your best ___ to a deal.,attempt|answer|alternative,2,,,It is your next-best option.
+269,11,multiple_choice,exercise,266,Improve your BATNA by ___.,Finding options|Hiding it|Arguing,0,,,More options give more power.
+270,11,true_false,exercise,266,Reveal your BATNA at the start.,,false,,,False. Usually keep your walk-away point private.
+271,11,multiple_choice,exercise,266,A walk-away point is ___.,Their offer|Your limit|A bonus,1,,,It is the point where you leave the deal.
+272,11,select_blank,exercise,266,Know your ___ before negotiating.,title|lunch|BATNA,2,,,Your fallback sets your limit.
+273,11,true_false,preview,274,First numbers stick in people's minds.,,true,,,True. This is anchoring.
+274,11,multiple_choice,main,,What is anchoring?,First number sways|Last offer|Silence,0,,,"Anchoring is letting the first number or idea mentioned strongly shape what comes next, as in a first offer."
+275,11,true_false,exercise,274,Whoever speaks first can set the anchor.,,true,,,True. Later numbers cluster around it.
+276,11,select_blank,exercise,274,A first ___ often acts as an anchor.,reply|offer|break,1,,,The first number shapes the talks.
+277,11,multiple_choice,exercise,274,"To resist anchoring, ___.",Accept it|Stay silent|Use facts,2,,,Use data to reset the range.
+278,11,true_false,exercise,274,Anchoring never influences decisions.,,false,,,False. They strongly shape judgments.
+279,11,multiple_choice,exercise,274,An extreme first offer ___.,Anchors talks|Ends talks|Is ignored,0,,,It pulls the final number toward it.
+280,11,select_blank,exercise,274,Anchoring is a ___ bias.,physical|cognitive|legal,1,,,It is a mental shortcut.
+281,11,true_false,preview,282,Good deals leave both sides better off.,,true,,,True. That is win-win.
+282,11,multiple_choice,main,,What is a win-win deal?,One wins|None wins|Both gain,2,,,Win-win means both sides gain from shared interests. Trade-offs give up what matters less for what matters more.
+283,11,true_false,exercise,282,Win-win needs shared interests.,,true,,,True. Find common ground.
+284,11,select_blank,exercise,282,A trade-off gives up ___ for more.,less|everything|nothing,0,,,You trade low-value items for high-value ones.
+285,11,multiple_choice,exercise,282,What expands win-win options?,One issue|Many issues|Ultimatums,1,,,More issues allow creative trades.
+286,11,true_false,exercise,282,Win-win negotiation is always zero-sum.,,false,,,False. Many deals create value for both.
+287,11,multiple_choice,exercise,282,A shared interest is ___.,Rivalry|Secret|Common goal,2,,,Both sides want it.
+288,11,select_blank,exercise,282,Trade what matters ___ to you.,less|most|none,0,,,Give on low priorities.
+289,11,true_false,preview,290,Working with others is a skill set.,,true,,,True. Review the key ideas.
+290,11,multiple_choice,main,,Which describes BATNA?,Best offer|Best alternative|Final price,1,,,Your best alternative to a negotiated agreement.
+291,11,multiple_choice,exercise,290,Which describes anchoring?,Last offer|Silence|First number sways,2,,,A first number shapes the talks.
+292,11,true_false,exercise,290,Win-win means both sides gain.,,true,,,True. Both get value.
+293,11,select_blank,exercise,290,"Negotiate on ___, not positions.",interests|titles|numbers,0,,,Needs reveal options.
+294,11,multiple_choice,exercise,290,Which style meets halfway?,Competing|Compromising|Avoiding,1,,,Each side gives some ground.
+295,11,true_false,exercise,290,Conflict always needs a winner.,,false,,,False. Many conflicts can end win-win.
+296,11,multiple_choice,exercise,290,Which builds trust?,Hiding errors|Blaming|Admitting mistakes,2,,,Owning mistakes builds credibility.
+297,11,match_pairs,exercise,290,"Match each term, round 1.",Feedforward↔Future suggestions|Growth mindset↔Skills can grow|Thomas-Kilmann modes↔Five conflict styles|Interest-based approach↔Needs over positions,,,,Each term goes with its short meaning.
+298,12,true_false,preview,299,Not every urgent task matters.,,true,,,True. Sort by urgent and important.
+299,12,multiple_choice,main,,Urgent and important tasks should be?,Done now|Delegated|Deleted,0,,,The Eisenhower matrix sorts tasks by urgent and important. Do urgent and important tasks now; schedule important but not urgent ones.
+300,12,multiple_choice,exercise,299,Important but not urgent?,Do now|Schedule|Delete,1,,,Plan a time for it before it becomes urgent.
+301,12,multiple_choice,exercise,299,Urgent but not important?,Schedule it|Do first|Delegate it,2,,,Hand it to someone else if possible.
+302,12,multiple_choice,exercise,299,Neither urgent nor important?,Drop it|Do now|Schedule,0,,,Eliminate time wasters.
+303,12,true_false,exercise,299,The matrix has four boxes.,,true,,,True. Urgent and important make two axes.
+304,12,select_blank,exercise,299,Planning a task is for the ___ quadrant.,urgent|important|trivial,1,,,Important but not urgent tasks need planning.
+305,12,true_false,exercise,299,Every urgent task is important.,,false,,,False. Some urgent tasks are just noise.
+306,12,true_false,preview,307,A to-do list is not a plan.,,true,,,True. Put tasks on the calendar.
+307,12,multiple_choice,main,,What is time blocking?,To-do list|A break|Calendar slots,2,,,"Time blocking means calendar your priorities: put tasks on your calendar as set blocks of time, not a loose list."
+308,12,true_false,exercise,307,Time blocking reserves focus time.,,true,,,True. The calendar protects it.
+309,12,select_blank,exercise,307,Schedule tasks in calendar ___.,blocks|lists|notes,0,,,Each block is reserved for one task.
+310,12,multiple_choice,exercise,307,Which protects focus?,Open inbox|Blocked time|Random pings,1,,,A blocked calendar signals you are unavailable.
+311,12,true_false,exercise,307,Time blocking uses a loose list.,,false,,,False. It uses fixed calendar slots.
+312,12,multiple_choice,exercise,307,Put priorities in your ___.,Pocket|Inbox|Calendar,2,,,What is scheduled gets done.
+313,12,select_blank,exercise,307,Time ___ puts tasks on the calendar.,blocking|wasting|freezing,0,,,That is the technique.
+314,12,true_false,preview,315,Short sprints beat long slogs.,,true,,,True. Try 25 minutes.
+315,12,multiple_choice,main,,How long is a Pomodoro?,60 minutes|25 minutes|5 minutes,1,,,"The Pomodoro technique alternates focused 25-minute blocks with short breaks. After several rounds, take a longer break."
+316,12,select_blank,exercise,315,A Pomodoro lasts ___ minutes.,50|10|25,2,,,A standard session is 25 minutes.
+317,12,true_false,exercise,315,Take a short break between sessions.,,true,,,True. Rest keeps focus fresh.
+318,12,multiple_choice,exercise,315,What follows each session?,Short break|More work|Meeting,0,,,A brief break resets attention.
+319,12,true_false,exercise,315,A Pomodoro lasts two hours.,,false,,,False. It is 25 minutes.
+320,12,multiple_choice,exercise,315,After four sessions?,No break|Long break|Quit,1,,,Take a longer break.
+321,12,select_blank,exercise,315,Work in ___ blocks.,random|noisy|focused,2,,,One task per block.
+322,13,true_false,preview,323,"When everything is a priority, nothing is.",,true,,,True. Rank tasks.
+323,13,multiple_choice,main,,Which task goes first?,High impact|Low impact|Easiest,0,,,"Weigh impact, effort and deadline: high impact with a near deadline usually comes first."
+324,13,true_false,exercise,323,Deadlines help rank tasks.,,true,,,True. Near deadlines add urgency.
+325,13,select_blank,exercise,323,Compare impact and ___.,lunch|effort|mood,1,,,Effort shows what a task costs.
+326,13,multiple_choice,exercise,323,"A big win, small effort is?",Skip|Hide|Do soon,2,,,High impact for low effort is the best trade.
+327,13,true_false,exercise,323,Always do the easiest task first.,,false,,,False. Impact matters more.
+328,13,multiple_choice,exercise,323,Which is high impact?,Client contract|Desk tidy|Lunch order,0,,,It moves your goals forward.
+329,13,select_blank,exercise,323,Rank tasks by ___ and deadline.,colour|impact|length,1,,,High impact comes first.
+330,13,true_false,preview,331,Saying no protects your best work.,,true,,,True. Do it politely.
+331,13,multiple_choice,main,,A polite no starts with?,Excuses|Silence|Acknowledging,2,,,"Acknowledge the request, explain briefly and offer an alternative if you can."
+332,13,true_false,exercise,331,Explaining briefly is enough.,,true,,,True. Long excuses invite debate.
+333,13,select_blank,exercise,331,Offer an ___.,alternative|apology|argument,0,,,Suggest what you can do instead.
+334,13,multiple_choice,exercise,331,Which is polite?,No way|Not this week|Ignore,1,,,It acknowledges and sets a limit.
+335,13,true_false,exercise,331,Saying yes to everything is helpful.,,false,,,False. It overloads you.
+336,13,multiple_choice,exercise,331,Which way explains briefly?,Long stories|Anger|Brief reasons,2,,,Keep it short and kind.
+337,13,select_blank,exercise,331,___ the request first.,Acknowledge|Ignore|Delay,0,,,Show you heard them.
+338,13,true_false,preview,339,Projects can grow without anyone deciding.,,true,,,True. That is scope creep.
+339,13,multiple_choice,main,,What is scope creep?,Fast progress|Slow growth|A budget,1,,,"Scope creep is when a project slowly grows beyond what was agreed, without more time or resources. Agree on scope early."
+340,13,true_false,exercise,339,Scope creep adds unplanned work.,,true,,,True. Tasks pile up unnoticed.
+341,13,select_blank,exercise,339,Agree on ___ at the start.,lunch|colours|scope,2,,,Scope defines what is included.
+342,13,multiple_choice,exercise,339,"To stop creep, ___.",Agree changes|Say yes|Ignore,0,,,Review any new request against scope.
+343,13,true_false,exercise,339,Scope creep is always harmless.,,false,,,False. It delays work and raises costs.
+344,13,multiple_choice,exercise,339,A new request changes scope?,Accept it|Evaluate it|Hide it,1,,,Check time and resources first.
+345,13,select_blank,exercise,339,Scope ___ happens slowly.,jump|flip|creep,2,,,Small additions accumulate.
+346,14,true_false,preview,347,We often delay tasks that feel bad.,,true,,,True. That is procrastination.
+347,14,multiple_choice,main,,Why do people procrastinate?,Avoid discomfort|Love work|Lack time,0,,,"Procrastination is putting off a task you intend to do, usually avoiding discomfort such as boredom or fear."
+348,14,true_false,exercise,347,Procrastination is a time problem.,,false,,,False. It is mostly a feeling problem.
+349,14,select_blank,exercise,347,People delay tasks that feel ___.,easy|unpleasant|short,1,,,Discomfort drives delay.
+350,14,multiple_choice,exercise,347,Which is a trigger?,Reward|Speed|Fear,2,,,Fear of failing can cause delay.
+351,14,true_false,exercise,347,Delay relieves discomfort short term.,,true,,,True. That is why it feels tempting.
+352,14,multiple_choice,exercise,347,Procrastination means?,Delaying|Planning|Resting,0,,,You put off something you meant to do.
+353,14,select_blank,exercise,347,Delay often avoids a ___.,coffee|feeling|desk,1,,,The emotion is the cause.
+354,14,true_false,preview,355,Starting is the hardest part.,,true,,,True. Make it tiny.
+355,14,multiple_choice,main,,The two-minute rule says ___.,Wait|Delegate|Do it now,2,,,"If a task takes under two minutes, do it now. Break big tasks into small steps and remove distractions."
+356,14,true_false,exercise,355,Break big tasks into steps.,,true,,,True. Small steps feel doable.
+357,14,select_blank,exercise,355,Remove ___ before starting.,distractions|snacks|chairs,0,,,Silence phones and close tabs.
+358,14,multiple_choice,exercise,355,Which is the first step?,Whole project|Tiny action|Perfect plan,1,,,A tiny first step reduces resistance.
+359,14,true_false,exercise,355,Wait until you feel ready.,,false,,,False. Action creates motivation.
+360,14,multiple_choice,exercise,355,A 90-second task?,Schedule|Skip|Do now,2,,,The two-minute rule applies.
+361,14,select_blank,exercise,355,Break it ___.,down|up|out,0,,,Split work into steps.
+362,14,true_false,preview,363,Deep focus produces your best work.,,true,,,True. It is rare today.
+363,14,multiple_choice,main,,What is deep work?,Quick replies|Focused effort|Meetings,1,,,"Deep work is focused, distraction-free effort on a demanding task. Shallow work is routine, like answering messages."
+364,14,multiple_choice,exercise,363,Which is shallow work?,Writing a plan|Coding|Answering chat,2,,,Routine messages are shallow work.
+365,14,true_false,exercise,363,Deep work needs no interruptions.,,true,,,True. Focus takes protected time.
+366,14,select_blank,exercise,363,Deep work needs ___ focus.,sustained|split|brief,0,,,Long unbroken attention.
+367,14,true_false,exercise,363,Email is deep work.,,false,,,False. It is shallow work.
+368,14,multiple_choice,exercise,363,Where to do deep work?,Open inbox|Quiet place|Meeting,1,,,Remove interruptions.
+369,14,select_blank,exercise,363,Routine tasks are ___ work.,deep|dark|shallow,2,,,They need little concentration.
+370,14,true_false,preview,371,Focus tools work together.,,true,,,True. Review the key ideas.
+371,14,multiple_choice,main,,Urgent and important tasks are?,Done now|Delegated|Dropped,0,,,The Eisenhower matrix says do them now.
+372,14,multiple_choice,exercise,371,A Pomodoro session lasts?,60 minutes|25 minutes|5 minutes,1,,,A Pomodoro is 25 minutes.
+373,14,true_false,exercise,371,Scope creep slowly adds unplanned work.,,true,,,True. It slowly expands a project.
+374,14,select_blank,exercise,371,Delaying to avoid discomfort is ___.,deep work|planning|procrastination,2,,,Procrastination is a feeling problem.
+375,14,multiple_choice,exercise,371,Which needs deep focus?,Writing a plan|Answering chat|Filing,0,,,Demanding tasks need deep work.
+376,14,true_false,exercise,371,The two-minute rule says do quick tasks now.,,true,,,True. Tiny tasks should not pile up.
+377,14,multiple_choice,exercise,371,Time blocking uses a ___.,Notebook|Calendar|Inbox,1,,,Put tasks on your calendar.
+378,14,match_pairs,exercise,371,"Match each term, round 1.",BATNA↔Best fallback|Anchoring↔First number sticks|Eisenhower matrix↔Urgent-important grid|Time blocking↔Calendar slots|Pomodoro technique↔25-minute sprints,,,,Each term goes with its short meaning.
+379,14,match_pairs,exercise,371,"Match each term, round 2.",Scope creep↔Growing project|BATNA↔Best fallback|Anchoring↔First number sticks,,,,Each term goes with its short meaning.
+380,15,true_false,preview,381,Chronic stress can drain you.,,true,,,True. That is burnout.
+381,15,multiple_choice,main,,What is burnout?,A bad day|A holiday|Long-term exhaustion,2,,,"Burnout is long-term work stress: exhaustion, cynicism and reduced effectiveness."
+382,15,multiple_choice,exercise,381,A sign of burnout?,Cynicism|Energy|Calm,0,,,Feeling detached or negative is a common sign.
+383,15,true_false,exercise,381,Burnout is just laziness.,,false,,,False. It is a response to chronic stress.
+384,15,select_blank,exercise,381,Burnout brings ___ and exhaustion.,joy|cynicism|speed,1,,,"Cynicism, exhaustion and lower effectiveness."
+385,15,true_false,exercise,381,Reduced effectiveness is a sign.,,true,,,True. Work quality drops.
+386,15,multiple_choice,exercise,381,Burnout is caused by?,One meeting|Holidays|Chronic stress,2,,,It builds over a long time.
+387,15,select_blank,exercise,381,Burnout is ___ stress.,long-term|brief|fun,0,,,It lasts and builds.
+388,15,select_blank,exercise,381,Burnout lowers your ___.,salary|effectiveness|height,1,,,Work quality and energy drop.
+389,15,true_false,exercise,381,Rest alone always cures burnout.,,false,,,False. Workload and support usually need to change too.
+390,15,true_false,preview,391,Work should not swallow your life.,,true,,,True. Set boundaries.
+391,15,multiple_choice,main,,What is a work-life boundary?,Others' rule|A fence|Clear limit,2,,,"Boundaries separate work from personal time, such as switching off notifications after hours and taking breaks."
+392,15,true_false,exercise,391,Switching off helps recovery.,,true,,,True. Rest restores energy.
+393,15,select_blank,exercise,391,Take regular ___.,breaks|risks|orders,0,,,Breaks prevent fatigue.
+394,15,multiple_choice,exercise,391,A boundary example?,Always on|No late email|Weekend work,1,,,A fixed limit protects personal time.
+395,15,true_false,exercise,391,Switching off after work is unhealthy.,,false,,,False. Work-life boundaries and switching off protect recovery.
+396,15,multiple_choice,exercise,391,Which helps switching off?,Checking email|Overtime|Quiet notifications,2,,,Silence alerts after hours.
+397,15,select_blank,exercise,391,Set ___ between work and life.,boundaries|walls|games,0,,,Clear limits protect rest.
+398,15,true_false,preview,399,Basics protect you from stress.,,true,,,"True. Sleep, movement and support."
+399,15,multiple_choice,main,,Which helps manage stress?,Skipping meals|Sleep|More caffeine,1,,,"Regular sleep, movement and asking for support all reduce the effects of stress."
+400,15,true_false,exercise,399,Exercise can reduce stress.,,true,,,True. Movement helps mood.
+401,15,select_blank,exercise,399,Ask for ___ when stressed.,silence|money|support,2,,,Sharing a load helps.
+402,15,multiple_choice,exercise,399,How much sleep matters?,A lot|None|A little,0,,,Sleep protects focus and mood.
+403,15,true_false,exercise,399,Asking for help is weakness.,,false,,,False. It is a strength.
+404,15,multiple_choice,exercise,399,A quick stress reliever?,Doomscrolling|A walk|Arguing,1,,,A short walk helps.
+405,15,select_blank,exercise,399,Regular ___ calms the body.,worry|snacks|movement,2,,,Activity reduces stress.
+406,16,true_false,preview,407,Clear goals beat wishes.,,true,,,True. SMART goals are clear.
+407,16,multiple_choice,main,,What does SMART stand for?,Goal traits|Software|Bank rule,0,,,"A SMART goal is Specific, Measurable, Achievable, Relevant and Time-bound."
+408,16,multiple_choice,exercise,407,SMART goal?,Do better|Sell 10 monthly|Be great,1,,,"It is specific, measurable and has a deadline."
+409,16,true_false,exercise,407,A SMART goal has a deadline.,,true,,,True. Time-bound means a due date.
+410,16,select_blank,exercise,407,A SMART goal is ___.,vague|secret|measurable,2,,,You can track progress.
+411,16,true_false,exercise,407,'Do better' is a SMART goal.,,false,,,False. It is vague.
+412,16,multiple_choice,exercise,407,M in SMART is?,Measurable|Motivated|Major,0,,,Measurable: you can count it.
+413,16,select_blank,exercise,407,Make goals specific and ___.,endless|time-bound|vague,1,,,Set a deadline.
+414,16,true_false,preview,415,Some teams aim high on purpose.,,true,,,True. That is OKRs.
+415,16,multiple_choice,main,,What are OKRs?,Office keys|Daily tasks|Objectives and results,2,,,OKR means objectives and key results: ambitious goals paired with measurable results.
+416,16,multiple_choice,exercise,415,Key results should be ___.,Measurable|Vague|Secret,0,,,They show whether you hit the objective.
+417,16,true_false,exercise,415,An OKR objective can be ambitious.,,true,,,True. It inspires effort.
+418,16,select_blank,exercise,415,An objective pairs with key ___.,rules|results|roles,1,,,Key results measure whether you reached the objective.
+419,16,true_false,exercise,415,Key results are vague wishes.,,false,,,False. They are measurable.
+420,16,multiple_choice,exercise,415,An OKR pairs an objective with?,Salaries|Rules|Key results,2,,,Results measure progress.
+421,16,select_blank,exercise,415,OKR stands for objectives and ___ results.,key|kind|known,0,,,Key results measure success.
+422,16,true_false,preview,423,Habits run on a loop.,,true,,,"True. Cue, routine, reward."
+423,16,multiple_choice,main,,What starts a habit loop?,A reward|A cue|A routine,1,,,"A cue triggers a routine, which earns a reward. Change the loop to change the habit."
+424,16,multiple_choice,exercise,423,The routine is the ___.,Trigger|Prize|Behavior,2,,,It is what you actually do.
+425,16,multiple_choice,exercise,423,The reward ___.,Reinforces habit|Stops habit|Starts habit,0,,,A reward makes the loop stick.
+426,16,true_false,exercise,423,A cue triggers the routine.,,true,,,True. It is the starting signal.
+427,16,select_blank,exercise,423,"Cue, routine, ___.",reason|reward|rest,1,,,The loop ends with a reward.
+428,16,true_false,exercise,423,Habits have no triggers.,,false,,,False. Every habit has a cue.
+429,16,multiple_choice,exercise,423,Phone buzz is a ___.,Reward|Routine|Cue,2,,,It triggers checking.
+430,16,true_false,preview,431,Looking after yourself helps your work.,,true,,,True. Review the key ideas.
+431,16,multiple_choice,main,,Which is SMART?,Sell 10 monthly|Do better|Be great,0,,,"It is specific, measurable and time-bound."
+432,16,multiple_choice,exercise,431,Which describes burnout?,A bad day|Long-term exhaustion|A holiday,1,,,Long-term stress that exhausts you.
+433,16,true_false,exercise,431,Pomodoro sessions are 25 minutes.,,true,,,True. Then take a short break.
+434,16,select_blank,exercise,431,Delaying to avoid discomfort is ___.,planning|focus|procrastination,2,,,Procrastination is about feelings.
+435,16,multiple_choice,exercise,431,Important but not urgent?,Schedule it|Do now|Drop,0,,,Plan time for it.
+436,16,true_false,exercise,431,Burnout reflects lack of effort.,,false,,,False. It is a response to chronic stress.
+437,16,multiple_choice,exercise,431,Which sleeps best?,All-nighters|Regular hours|Naps only,1,,,Consistent sleep protects health.
+438,16,match_pairs,exercise,431,"Match each term, round 1.",Procrastination↔Putting things off|Deep work↔Focused effort|Burnout↔Chronic exhaustion,,,,Each term goes with its short meaning.
+439,17,true_false,preview,440,Fixing symptoms lets problems return.,,true,,,True. Find the root cause.
+440,17,multiple_choice,main,,What is a root cause?,Visible symptom|Quick fix|Underlying reason,2,,,A root cause is the underlying reason a problem happens. Symptoms vs causes: fixing only symptoms is temporary.
+441,17,true_false,exercise,440,Treating symptoms solves the cause.,,false,,,False. The cause remains.
+442,17,select_blank,exercise,440,Fix the root ___.,cause|leaf|branch,0,,,Address the underlying reason.
+443,17,multiple_choice,exercise,440,A symptom is ___.,The reason|Visible sign|The fix,1,,,It is the visible sign of a problem.
+444,17,true_false,exercise,440,A repeated problem suggests a deeper cause.,,true,,,True. Look beneath the surface.
+445,17,true_false,preview,446,Asking why repeatedly digs deeper.,,true,,,True. That is the 5 Whys.
+446,17,multiple_choice,main,,What is the 5 Whys?,Five meetings|Five options|Repeated why,2,,,"The 5 Whys is a technique where you keep asking why until you reach the root cause. Five is a guide, not a rule."
+447,17,true_false,exercise,446,Five is a strict rule.,,false,,,False. Stop when you reach the root cause.
+448,17,select_blank,exercise,446,Keep asking ___.,why|who|when,0,,,Each answer prompts the next why.
+449,17,multiple_choice,exercise,446,What does it find?,Blame|Root cause|Budget,1,,,It digs beneath the surface problem.
+450,17,true_false,exercise,446,Each 'why' goes deeper.,,true,,,True. Each answer leads to the next question.
+451,17,true_false,preview,452,Good decisions start with many options.,,true,,,True. Generate before judging.
+452,17,multiple_choice,main,,What is brainstorming?,Judging ideas|Voting|Generating ideas,2,,,Brainstorming means generating many ideas before judging any. Then choose criteria and test small before committing.
+453,17,true_false,exercise,452,Judge ideas while brainstorming.,,false,,,False. Defer judgment until later.
+454,17,select_blank,exercise,452,Choose ___ before picking an option.,criteria|lunch|seats,0,,,Know what matters first.
+455,17,multiple_choice,exercise,452,What does testing small do?,Adds cost|Reduces risk|Delays,1,,,A small test shows what works cheaply.
+456,17,true_false,exercise,452,More ideas give better choices.,,true,,,True. Quantity helps quality.
+457,17,multiple_choice,exercise,452,Which comes first?,Decision|Review|Ideas,2,,,"Generate options, then decide."
+458,17,select_blank,exercise,452,Test options on a ___ scale.,small|huge|secret,0,,,Small tests are cheap.
+459,18,true_false,preview,460,Scoring options makes them comparable.,,true,,,True. Use a decision matrix.
+460,18,multiple_choice,main,,What is a decision matrix?,A meeting|Scoring table|A vote,1,,,A decision matrix scores each option against weighted criteria so you can compare them fairly.
+461,18,true_false,exercise,460,Weights show which criteria matter most.,,true,,,True. Important criteria count more.
+462,18,select_blank,exercise,460,Score each option against ___.,opinions|moods|criteria,2,,,Criteria define what matters.
+463,18,multiple_choice,exercise,460,The highest score is ___.,Strongest option|Always right|Cheapest,0,,,It best meets the weighted criteria.
+464,18,true_false,exercise,460,A matrix removes all bias.,,false,,,False. Weights and scores still involve judgment.
+465,18,true_false,preview,466,We favour facts that agree with us.,,true,,,True. That is confirmation bias.
+466,18,multiple_choice,main,,What is confirmation bias?,Checking facts|Favouring agreement|Changing minds,1,,,Confirmation bias is believing information that supports what you already think. Seek disconfirming evidence: facts that could prove you wrong.
+467,18,true_false,exercise,466,Confirmation bias helps accuracy.,,false,,,False. It distorts judgment.
+468,18,select_blank,exercise,466,Seek ___ evidence too.,agreeing|no|opposing,2,,,Look for facts that challenge you.
+469,18,multiple_choice,exercise,466,Seek disconfirming evidence by asking?,What disproves?|Who agrees?|Why right?,0,,,Seek disconfirming evidence.
+470,18,true_false,exercise,466,Everyone has confirmation bias.,,true,,,True. It is a normal mental shortcut.
+471,18,true_false,preview,472,Past spending should not decide the future.,,true,,,True. Beware the sunk cost fallacy.
+472,18,multiple_choice,main,,What is the sunk cost fallacy?,Cutting losses|Past-cost persistence|Saving money,1,,,The sunk cost fallacy is continuing because of past spending. Ignore past spending; judge what it will cost or give from here.
+473,18,true_false,exercise,472,Past spending should drive decisions.,,false,,,False. Only future costs and benefits matter.
+474,18,select_blank,exercise,472,A ___ cost is already spent.,future|hidden|sunk,2,,,Sunk costs cannot be recovered.
+475,18,multiple_choice,exercise,472,Which shows the fallacy?,Already invested|Fresh review|Cut losses,0,,,It lets past spending drive the choice.
+476,18,true_false,exercise,472,Ignore sunk costs when deciding.,,true,,,True. Judge from here forward.
+477,18,true_false,preview,478,Better decisions are a habit.,,true,,,True. Review the key ideas.
+478,18,multiple_choice,main,,Which finds the root cause?,Brainstorm|5 Whys|Vote,1,,,The 5 Whys keeps asking why.
+479,18,multiple_choice,exercise,478,What scores weighted options?,Poll|Coin toss|Decision matrix,2,,,It compares options against criteria.
+480,18,true_false,exercise,478,Confirmation bias favours agreeing facts.,,true,,,True. Seek opposing evidence.
+481,18,select_blank,exercise,478,A ___ cost is already spent.,sunk|future|fixed,0,,,Do not let it drive decisions.
+482,18,multiple_choice,exercise,478,A symptom is ___.,Root cause|Visible sign|Fix,1,,,Look deeper for the cause.
+483,18,true_false,exercise,478,Brainstorming judges ideas immediately.,,false,,,False. Judge later.
+484,18,multiple_choice,exercise,478,Which reduces risk?,Betting big|Waiting|Testing small,2,,,Small tests are cheap.
+485,18,match_pairs,exercise,478,"Match each term, round 1.","SMART goal↔Clear, timed goal|OKR↔Objectives, key results|Habit loop↔Cue, routine, reward|Root cause↔Underlying reason|5 Whys↔Keep asking why",,,,Each term goes with its short meaning.
+486,19,true_false,preview,487,You cannot do everything yourself.,,true,,,True. Delegate well.
+487,19,multiple_choice,main,,What is delegation?,Assigning responsibility|Doing it all|Avoiding work,0,,,"Delegation gives someone responsibility and authority to act, with a clear outcome, while you stay accountable."
+488,19,select_blank,exercise,487,Describe the clear ___ you want.,mood|outcome|method,1,,,Say what success looks like.
+489,19,true_false,exercise,487,Delegating means giving authority too.,,true,,,True. They need power to act.
+490,19,multiple_choice,exercise,487,Who is accountable?,Nobody|Customers|You,2,,,You remain accountable for results.
+491,19,true_false,exercise,487,Delegate without explaining the goal.,,false,,,False. A clear outcome is essential.
+492,19,multiple_choice,exercise,487,Delegate ___.,Outcomes|Every step|Blame,0,,,"Define what, not every how."
+493,19,select_blank,exercise,487,Give authority to ___.,wait|act|guess,1,,,They need freedom to decide.
+494,19,true_false,preview,495,Hovering over every detail backfires.,,true,,,True. That is micromanagement.
+495,19,multiple_choice,main,,What is micromanagement?,Giving freedom|Coaching|Controlling details,2,,,"Micromanagement is controlling the small details of someone's work, which reduces their ownership and trust. Use check-ins instead."
+496,19,true_false,exercise,495,Micromanagement builds ownership.,,false,,,False. It reduces ownership.
+497,19,select_blank,exercise,495,Use regular ___.,check-ins|audits|alarms,0,,,Short check-ins keep you informed.
+498,19,multiple_choice,exercise,495,Which builds trust?,Constant watching|Check-ins|Silence,1,,,"Light, regular contact works better."
+499,19,true_false,exercise,495,Trust helps people perform.,,true,,,True. Ownership drives effort.
+500,19,true_false,preview,501,A coach can guide you in four steps.,,true,,,True. That is the GROW model.
+501,19,multiple_choice,main,,What does GROW start with?,Reality|Will|Goal,2,,,"The GROW model has four steps: Goal, Reality, Options and Will (what will you do)."
+502,19,multiple_choice,exercise,501,The R in GROW is?,Reality|Reward|Risk,0,,,Reality means looking at where you are now.
+503,19,multiple_choice,exercise,501,The O in GROW is?,Orders|Options|Outcome,1,,,Options explores possible actions.
+504,19,multiple_choice,exercise,501,The W in GROW is?,Wait|Win|Will,2,,,Will is committing to action.
+505,19,true_false,exercise,501,GROW has four steps.,,true,,,"True. Goal, Reality, Options, Will."
+506,19,select_blank,exercise,501,The last step is ___.,Will|Goal|Reality,0,,,Will is what you commit to do.
+507,19,multiple_choice,exercise,501,Which step names the target?,Options|Goal|Will,1,,,Goal is what you want to achieve.
+508,19,true_false,exercise,501,GROW skips the Reality step.,,false,,,False. Reality is step two.
+509,19,select_blank,exercise,501,GROW is a ___ framework.,tax|sales|coaching,2,,,Coaches use it to guide conversations.
+510,20,true_false,preview,511,Your manager is your key partner.,,true,,,True. Managing up helps both.
+511,20,multiple_choice,main,,What is managing up?,Helping them|Bossing them|Avoiding them,0,,,Managing up means knowing your manager's priorities and communicating what they need.
+512,20,true_false,exercise,511,Know your manager's priorities.,,true,,,True. Align your work to them.
+513,20,select_blank,exercise,511,Learn your manager's ___.,passwords|priorities|habits,1,,,Priorities guide your effort.
+514,20,multiple_choice,exercise,511,Managing up shares ___ early.,Rumours|Secrets|Bad news,2,,,No surprises builds trust.
+515,20,true_false,exercise,511,Managing up means ignoring your manager.,,false,,,False. It means working well together.
+516,20,true_false,preview,517,Interviewers ask about real examples.,,true,,,True. Use the STAR method.
+517,20,multiple_choice,main,,What does the S in STAR mean?,Situation|Skill|Start,0,,,"The STAR method answers behavioral interview questions by describing the Situation, Task, Action and Result."
+518,20,multiple_choice,exercise,517,Which part is your effort?,Situation|Action|Result,1,,,Action is what you actually did.
+519,20,true_false,exercise,517,STAR uses real examples.,,true,,,True. Behavioral questions ask for past behavior.
+520,20,select_blank,exercise,517,End with the ___.,task|scene|result,2,,,Share the outcome and what you learned.
+521,20,true_false,exercise,517,STAR means giving vague answers.,,false,,,False. It means specific stories.
+522,20,true_false,preview,523,Relationships open doors.,,true,,,True. Networking is a habit.
+523,20,multiple_choice,main,,What starts good networking?,Giving first|Asking favours|Waiting,0,,,"Give first by sharing help or ideas, follow up after meeting and stay in touch."
+524,20,true_false,exercise,523,Follow up after meeting someone.,,true,,,True. A short note keeps the connection.
+525,20,select_blank,exercise,523,Stay in ___ regularly.,line|touch|step,1,,,Occasional contact keeps relationships alive.
+526,20,multiple_choice,exercise,523,A good follow-up is ___.,After a year|Never|Soon,2,,,Do it while they remember you.
+527,20,true_false,exercise,523,Stay in touch only when job hunting.,,false,,,False. Build relationships continuously.
+528,20,multiple_choice,exercise,523,Which helps first?,Offer help|Ask favour|Send CV,0,,,Giving builds goodwill.
+529,20,select_blank,exercise,523,"___ first, ask later.",Take|Give|Wait,1,,,Generosity builds relationships.
+530,20,true_false,preview,531,"Skills for thinking, leading and your career connect.",,true,,,True. Review the key ideas.
+531,20,multiple_choice,main,,Which tool digs for the root cause?,Brainstorm|Vote|5 Whys,2,,,The 5 Whys keeps asking why.
+532,20,multiple_choice,exercise,531,Which describes delegation?,Assigning responsibility|Doing it all|Avoiding work,0,,,You give responsibility and authority.
+533,20,true_false,exercise,531,Opposing evidence helps fight bias.,,true,,,True. Seek facts that could prove you wrong.
+534,20,select_blank,exercise,531,The GROW model ends with ___.,Goal|Will|Reality,1,,,Will is what you commit to do.
+535,20,multiple_choice,exercise,531,STAR ends with the ___.,Task|Action|Result,2,,,Result is the final element.
+536,20,true_false,exercise,531,Micromanagement reduces trust.,,true,,,True. It also reduces ownership.
+537,20,multiple_choice,exercise,531,What reduces risk?,Testing small|Betting big|Waiting,0,,,Small tests are cheap.
+538,20,match_pairs,exercise,531,"Match each term, round 1.",Decision matrix↔Scored options|Confirmation bias↔Favoring agreement|Sunk cost fallacy↔Past spending trap|Delegation↔Handing over tasks|Micromanagement↔Controlling details,,,,Each term goes with its short meaning.
+539,20,match_pairs,exercise,531,"Match each term, round 2.",GROW model↔Four coaching steps|Decision matrix↔Scored options|Confirmation bias↔Favoring agreement,,,,Each term goes with its short meaning.
+540,1,multiple_choice,exam,,Active listening means giving the speaker your:,Full attention|Quick answers|Own opinion,0,,,You show you understand instead of waiting for your turn.
+541,1,true_false,exam,,Paraphrasing means repeating someone's exact words.,,false,,,You restate it in your own words to check you understood.
+542,1,multiple_choice,exam,,Which question is open-ended?,Done yet?|All good?|What happened?,2,,,An open question needs more than yes or no.
+543,2,multiple_choice,exam,,BLUF puts the conclusion:,First|Last|In the middle,0,,,"Bottom line up front, then the details."
+544,2,true_false,exam,,Short messages are more likely to be read.,,true,,,Keep one idea per message and cut filler.
+545,2,multiple_choice,exam,,"A clear request names the ask, deadline and a:",Nickname|Hashtag|Reason,2,,,That removes guesswork for the reader.
+546,3,multiple_choice,exam,,A good subject line states the topic and the:,Action needed|Sender's mood|Time sent,0,,,It decides whether the email is read.
+547,3,multiple_choice,exam,,Which channel suits a quick question?,Meeting|Chat|Letter,1,,,Email suits records and calls suit sensitive topics.
+548,3,multiple_choice,exam,,Tone is the attitude your words:,Delete|Translate|Convey,2,,,It is easily misread in writing.
+549,4,multiple_choice,exam,,A meeting needs a clear purpose and an:,Agenda|Mascot|Deadline,0,,,Invite only people who need to be there.
+550,4,multiple_choice,exam,,A facilitator guides the:,Seating|Discussion|Budget,1,,,Everyone contributes and the meeting meets its purpose.
+551,4,multiple_choice,exam,,An action item has an owner and a:,Slogan|Location|Deadline,2,,,It is a task agreed in the meeting.
+552,5,multiple_choice,exam,,A strong talk has about how many key points?,Three|Ten|Twenty,0,,,Three points are easier to remember.
+553,5,multiple_choice,exam,,What reduces nerves most?,Talking faster|Preparation|Skipping practice,1,,,Practising out loud builds confidence.
+554,5,multiple_choice,exam,,"Facing a tough question, you should first:",Interrupt|Guess|Pause,2,,,"If you do not know, say so and promise to follow up."
+555,6,multiple_choice,exam,,Which posture looks confident?,"Upright, open|Slumped, closed|Turned away",0,,,Eye contact and natural gestures support your words.
+556,6,multiple_choice,exam,,On video calls the camera should be at:,Ceiling level|Eye level|Floor level,1,,,Look at the lens and mute when not speaking.
+557,7,multiple_choice,exam,,"In Tuckman's model, which stage comes first?",Storming|Norming|Forming,2,,,Members meet and are polite.
+558,7,multiple_choice,exam,,Psychological safety means people feel safe to:,Speak up|Stay silent|Compete,0,,,"Speaking up, asking questions or admitting mistakes carries no punishment."
+559,7,true_false,exam,,Trust is built slowly but lost quickly.,,true,,,Keeping promises and admitting mistakes quickly rebuild it.
+560,8,multiple_choice,exam,,"In the SBI model, the I stands for:",Intention|Idea|Impact,2,,,"Situation, Behavior, Impact."
+561,8,true_false,exam,,"Good feedback focuses on character, not behavior.",,false,,,Be specific and focus on what you saw.
+562,8,multiple_choice,exam,,Feedforward gives suggestions about the:,Weather|Future|Past,1,,,It says what someone can do better next time.
+563,9,multiple_choice,exam,,"When receiving feedback, first:",Argue|Explain|Listen,2,,,"Listen without interrupting, then ask for examples."
+564,9,multiple_choice,exam,,A growth mindset believes abilities can:,Improve|Stay fixed|Disappear,0,,,"Effort, learning and feedback build skill."
+565,9,multiple_choice,exam,,Which team stage brings clashing ideas?,Performing|Storming|Forming,1,,,Storming is when ideas clash.
+566,10,multiple_choice,exam,,A common cause of conflict is unclear:,Weather|Lighting|Roles,2,,,Competing goals and miscommunication also cause it.
+567,10,multiple_choice,exam,,Which conflict style seeks a win-win?,Collaborating|Avoiding|Competing,0,,,It looks for a solution that serves both sides.
+568,10,multiple_choice,exam,,Interest-based talks focus on:,Blame|Needs|Positions,1,,,Separate the people from the problem.
+569,11,multiple_choice,exam,,BATNA is your best:,Offer|Opening|Alternative,2,,,It is your walk-away point if no deal is reached.
+570,11,multiple_choice,exam,,Anchoring lets the first number shape:,Later offers|Old notes|Team names,0,,,A first offer strongly shapes what follows.
+571,11,true_false,exam,,"In a win-win deal, both sides gain.",,true,,,It builds on shared interests and trade-offs.
+572,12,multiple_choice,exam,,Urgent and important tasks should be:,Delegated|Ignored|Done now,2,,,The Eisenhower matrix says do them now.
+573,12,multiple_choice,exam,,Time blocking puts priorities on your:,Calendar|Desk|Phone,0,,,"Tasks get set blocks of time, not a loose list."
+574,12,multiple_choice,exam,,A Pomodoro block lasts:,1 minute|25 minutes|2 hours,1,,,It alternates focus blocks with short breaks.
+575,13,multiple_choice,exam,,Which task usually goes first?,Low impact|Easy tasks|High impact,2,,,"Weigh impact, effort and deadline."
+576,13,multiple_choice,exam,,A polite no begins by:,Acknowledging|Apologising|Hiding,0,,,Then explain briefly and offer an alternative.
+577,13,multiple_choice,exam,,Scope creep is a project growing beyond:,Its budget|The agreement|Its team,1,,,It grows without more time or resources.
+578,14,multiple_choice,exam,,People often procrastinate to avoid:,Success|Money|Discomfort,2,,,Boredom or fear can make a task feel bad.
+579,14,multiple_choice,exam,,The two-minute rule says do short tasks:,Now|Never|Tomorrow,0,,,"If it takes under two minutes, do it immediately."
+580,14,multiple_choice,exam,,Deep work is focused and:,Routine|Distraction-free|Collaborative,1,,,"Shallow work is routine, like answering messages."
+581,15,multiple_choice,exam,,Burnout is long-term work:,Excitement|Boredom|Exhaustion,2,,,Cynicism and reduced effectiveness come with it.
+582,15,multiple_choice,exam,,A work-life boundary separates work from:,Personal time|Teamwork|Training,0,,,"For example, switching off notifications after hours."
+583,15,true_false,exam,,Regular sleep helps manage stress.,,true,,,So do movement and asking for support.
+584,16,multiple_choice,exam,,The T in SMART means:,Teamwork|Trained|Time-bound,2,,,"Specific, Measurable, Achievable, Relevant, Time-bound."
+585,16,multiple_choice,exam,,OKRs pair objectives with measurable:,Key results|Excuses|Budgets,0,,,They set ambitious goals with numbers behind them.
+586,16,multiple_choice,exam,,A habit loop starts with a:,Break|Cue|Reward,1,,,"A cue triggers a routine, which earns a reward."
+587,17,multiple_choice,exam,,A root cause is the underlying:,Symptom|Report|Reason,2,,,Fixing only symptoms is temporary.
+588,17,multiple_choice,exam,,The 5 Whys keeps asking:,Why|Who|Where,0,,,It continues until you reach the root cause.
+589,18,multiple_choice,exam,,A decision matrix scores options against weighted:,Rumours|Criteria|Opinions,1,,,It lets you compare options fairly.
+590,18,multiple_choice,exam,,Confirmation bias favours information that:,Surprises|Contradicts|Agrees,2,,,Seek disconfirming evidence to balance it.
+591,18,true_false,exam,,Sunk cost fallacy means continuing because of past spending.,,true,,,"Judge what the future will cost, not what is spent."
+592,19,multiple_choice,exam,,Delegation gives someone responsibility and:,Credit|Authority|Blame,1,,,You stay accountable for the outcome.
+593,19,multiple_choice,exam,,Micromanagement reduces others':,Salary|Hours|Ownership,2,,,Controlling every detail erodes trust.
+594,19,multiple_choice,exam,,The GROW model starts with:,Goal|Reality|Options,0,,,"Goal, Reality, Options, Will."
+595,20,multiple_choice,exam,,Managing up means knowing your manager's:,Salary|Priorities|Hobbies,1,,,Then communicate what they need.
+596,20,multiple_choice,exam,,"In STAR, the S means:",Strategy|Salary|Situation,2,,,"Situation, Task, Action, Result."
+597,20,multiple_choice,exam,,Good networking starts by:,Giving first|Asking first|Waiting,0,,,"Share help or ideas, then follow up."
