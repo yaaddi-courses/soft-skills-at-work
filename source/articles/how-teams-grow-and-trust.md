@@ -3,7 +3,7 @@
 **Covers:** Tuckman's stages, Psychological safety
 
 ## Teams are not born ready {#overview}
-A new group of people does not become a team the moment they are given one name and one goal. They go through a predictable development, and their results depend on how safe members feel to speak. A manager or a colleague who understands both ideas can tell a normal rough patch from a real problem.
+A new group of people does not become a team the moment they are given one name and one goal. They go through a predictable development, and their results depend on how safe members feel to speak. If you understand both ideas, you can tell a normal rough patch from a real problem, whether you are a manager or a colleague.
 
 ## Tuckman's stages {#tuckmans-stages}
 In 1965 the psychologist Bruce Tuckman described four stages that groups usually pass through. A fifth, adjourning, which means the group breaks up, was added in 1977.
@@ -16,14 +16,14 @@ In 1965 the psychologist Bruce Tuckman described four stages that groups usually
 Not every team moves forward in a straight line. A new member, a new boss or a changed goal can send a team back to an earlier stage. Leaders can help by giving clear direction in forming, steering conflict into useful talk in storming, and stepping back in performing.
 
 ## Psychological safety {#psychological-safety}
-Psychological safety is the shared belief that you can speak up, ask a question or admit a mistake without being punished or humiliated. Professor Amy Edmondson of Harvard studied hospital teams in the 1990s and found something surprising: the better teams reported more mistakes, not fewer. They were not worse; they were just willing to say what went wrong, so they could fix it.
+Why do some teams speak up and others stay silent? A big part of the answer is psychological safety, the shared belief that you can speak up, ask a question or admit a mistake without being punished or humiliated. Professor Amy Edmondson of Harvard studied hospital teams in the 1990s and found something surprising: the better teams reported more mistakes, not fewer. They were not worse. They were willing to say what went wrong, so they could fix it.
 
 Later, Google studied hundreds of its own teams and found that psychological safety was the strongest factor in which ones performed best.
 
 Leaders build it in small ways. They admit their own errors, they thank people who raise bad news, they ask for different views before giving their own, and they respond to a question with curiosity, not sarcasm.
 
 ## A worked example {#example}
-A product team of five has worked together for six weeks. Match each observation to a stage and a safety signal:
+A product team of five has worked together for six weeks. Let's match each observation to a stage and a safety signal.
 
 | What you see | Stage | Safety signal |
 |---|---|---|
@@ -35,7 +35,9 @@ A product team of five has worked together for six weeks. Match each observation
 Now look at the second row. Many managers see the argument and think the team is failing. In fact, an hour of open disagreement is a better sign than silence, because a silent group is not sharing what it knows.
 
 ## A common mistake {#mistake}
-Trying to skip storming. Leaders who stamp out every disagreement keep the peace in the short term and lose the honest discussion that leads to norming. Another mistake is confusing psychological safety with being nice. A safe team can have tough standards. It is the response to mistakes and questions that changes, not the level of ambition.
+A common slip is trying to skip storming. Leaders who stamp out every disagreement keep the peace in the short term and lose the honest discussion that leads to norming.
+
+A second slip is confusing psychological safety with being nice. A safe team can have tough standards. It is the response to mistakes and questions that changes, not the level of ambition.
 
 ## Key points {#key-points}
 - Teams usually pass through forming, storming, norming and performing, and can slip back after changes.

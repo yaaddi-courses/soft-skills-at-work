@@ -3,30 +3,30 @@
 **Covers:** Root cause, 5 Whys, Decision matrix, Confirmation bias, Sunk cost fallacy
 
 ## Fix the right thing, then choose well {#overview}
-Two kinds of mistakes waste a lot of effort at work. One is fixing a symptom, so the problem comes back. The other is choosing an option for the wrong reasons, such as liking a familiar idea or refusing to give up on a bad one. This article covers two tools for the first problem and three ideas for the second.
+Two kinds of mistakes waste a lot of effort at work. One is fixing a symptom, so the problem comes back. The other is choosing an option for the wrong reasons, such as liking a familiar idea or refusing to give up on a bad one. In this article we will look at two tools for the first problem and three ideas for the second.
 
 ## Root cause {#root-cause}
-A root cause is the underlying reason a problem happens. The symptom is what you can see, such as a late delivery. The root cause is why: perhaps orders are entered by hand, and the hand-off is not checked. If you fix only the symptom, by shipping that one order faster, the next order is late again.
+Suppose a delivery arrives late. That is the symptom, the thing you can see. The root cause is the underlying reason it happens: perhaps orders are entered by hand, and the hand-off is not checked. If you fix only the symptom, by shipping that one order faster, the next order is late again.
 
 A useful test is: if I remove this cause, will the problem stop? If the answer is "maybe", you may still be looking at a symptom or a partial cause.
 
 ## 5 Whys {#5-whys}
-The 5 Whys is a technique in which you keep asking "why?" until you reach the root cause. It was developed at Toyota by Sakichi Toyoda. Five is a rule of thumb, not a law: sometimes three questions are enough, sometimes seven are needed.
+How do you dig down to the root? You keep asking "why?". That technique is the 5 Whys, developed at Toyota by Sakichi Toyoda. Five is a rule of thumb, not a law: sometimes three questions are enough, sometimes seven are needed.
 
-Rules for using it: base each answer on facts you can check, not guesses, and keep the question about processes, not people. "Why did Sam forget?" leads to blame. "Why does the process let a step be forgotten?" leads to a fix.
+Two rules for using it. Base each answer on facts you can check, not guesses. And keep the question about processes, not people. "Why did Sam forget?" leads to blame. "Why does the process let a step be forgotten?" leads to a fix.
 
 ## Decision matrix {#decision-matrix}
-A decision matrix is a table that scores each option against several criteria, with each criterion weighted by importance. It helps you compare options fairly when many factors matter.
+When many factors matter, a table helps you compare options fairly. A decision matrix scores each option against several criteria, with each criterion weighted by importance.
 
-Steps: list the options in rows and the criteria in columns, give each criterion a weight (for example out of 10), score each option from 1 to 5 against each, multiply score by weight, and add up each row. The highest total is a guide, not an order. If the result surprises you, ask whether a weight is wrong, because that surprise is useful information.
+Here are the steps. List the options in rows and the criteria in columns. Give each criterion a weight (for example out of 10). Score each option from 1 to 5 against each criterion. Multiply score by weight, and add up each row. The highest total is a guide, not an order. If the result surprises you, ask whether a weight is wrong, because that surprise is useful information.
 
 ## Confirmation bias {#confirmation-bias}
-Confirmation bias is the tendency to notice and believe information that matches what we already think, and to ignore or explain away what does not. Psychologist Peter Wason demonstrated it in 1960.
+We tend to notice and believe information that matches what we already think, and to ignore or explain away what does not. That tendency is confirmation bias. Psychologist Peter Wason demonstrated it in 1960.
 
 At work it appears when you search only for evidence that your plan will succeed, or when you read customer comments looking for praise. Guard against it by asking "what would prove me wrong?", by inviting someone to argue the opposite, and by writing down your prediction before you look at the data.
 
 ## Sunk cost fallacy {#sunk-cost-fallacy}
-The sunk cost fallacy is continuing something because of what you have already spent, not because of what it will cost or give you from now on. The money, time and effort are gone either way, so they should not decide the next step.
+Have you ever kept going with something only because you had already put so much into it? That is the sunk cost fallacy: continuing because of what you have already spent, not because of what it will cost or give you from now on. The money, time and effort are gone either way, so they should not decide the next step.
 
 Ask: "If I were starting today, with what I know, would I begin this?" If not, stopping may be the right choice. Teams that keep funding a failing project "because we have already invested so much" are making this error.
 
@@ -38,7 +38,7 @@ Ask: "If I were starting today, with what I know, would I begin this?" If not, s
 4. Why? The clean-up job was never set up on the new server.
 5. Why? The setup checklist did not include it. **Root cause:** an incomplete checklist.
 
-**Decision matrix.** Choose a tool for the team.
+**Decision matrix.** Let's choose a tool for the team.
 
 | Criterion (weight) | Tool A | Tool B | Tool C |
 |---|---|---|---|
@@ -50,7 +50,9 @@ Ask: "If I were starting today, with what I know, would I begin this?" If not, s
 B and C tie at 42 and both beat A at 38. A tie is a signal to look at the weights or add a criterion, such as security, to separate them.
 
 ## A common mistake {#mistake}
-Stopping the 5 Whys when you reach a person ("because Alex made an error"). That is rarely a root cause. Ask why the system allowed the error. Another mistake is using a decision matrix to justify a choice you have already made, by adjusting the weights until it wins.
+A common slip is stopping the 5 Whys when you reach a person ("because Alex made an error"). That is rarely a root cause. Ask why the system allowed the error.
+
+A second slip is using a decision matrix to justify a choice you have already made, by adjusting the weights until it wins.
 
 ## Key points {#key-points}
 - Fix the root cause, or the problem returns.

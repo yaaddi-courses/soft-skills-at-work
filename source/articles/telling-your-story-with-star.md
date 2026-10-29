@@ -6,7 +6,7 @@
 Saying "I am good at solving problems" proves little, since everyone says it. Telling a short, true story about a problem you solved proves a lot. Interviews, performance reviews and promotion discussions all ask for stories, so it pays to have a way of telling them that is short, clear and complete.
 
 ## STAR method {#star-method}
-The STAR method gives a story four parts, named after their first letters:
+Here is a pattern you can lean on. The STAR method gives a story four parts, named after their first letters:
 
 1. **Situation:** the context in a sentence or two. Where were you, and what was happening?
 2. **Task:** what you were responsible for, or what had to be achieved.
@@ -21,7 +21,7 @@ Pick stories that show qualities the job needs: teamwork, leadership, handling c
 Managers and recruiters often shorten the request: "Give me a STAR answer." When you hear that, use the four steps above. You can also use the pattern at work without an interview: in a performance review, in a message asking for a promotion, or in a short update that shows your impact.
 
 ## A worked example {#example}
-Question: "Tell me about a time you handled a conflict."
+Question: "Tell me about a time you handled a conflict." Let's answer it part by part.
 
 | Part | Answer |
 |---|---|
@@ -30,12 +30,14 @@ Question: "Tell me about a time you handled a conflict."
 | Action | "I met each person separately to hear their reasons, then ran a 30-minute session using the criteria the client had given us. We scored both designs and picked a hybrid." |
 | Result | "We lost two days, not the full week, and both teammates said the scoring method was fair. I now use it for design decisions." |
 
-Check the length. This answer is about 85 words, which takes roughly 40 seconds to say at a normal pace, so there is room to add a detail about what the scoring looked like.
+Now check the length. This answer is about 85 words, which takes roughly 40 seconds to say at a normal pace, so there is room to add a detail about what the scoring looked like.
 
 Notice the result has a number (two days against a week) and a lesson. Without them, the listener would not know whether the story ended well.
 
 ## A common mistake {#mistake}
-Spending most of the time on the situation. A long setup leaves little time for what you did. A second mistake is a result without evidence, such as "it went well". Add a number, a quote from someone, or a change that lasted.
+A common slip is spending most of the time on the situation. A long setup leaves little time for what you did.
+
+A second slip is a result without evidence, such as "it went well". Add a number, a quote from someone, or a change that lasted.
 
 ## Key points {#key-points}
 - STAR stands for Situation, Task, Action, Result, and it keeps stories short and complete.
