@@ -1,0 +1,68 @@
+section,deck,pack,level,keywords,terms,kind,main_card_id
+Communication,Active Listening,What is active listening?,1,Active listening|Full attention,Active listening,teach,2
+Communication,Active Listening,How do you show you are listening?,1,Paraphrasing|Summarizing|Nodding and eye contact,Paraphrasing,teach,10
+Communication,Active Listening,What are open-ended questions?,1,Open-ended question|Closed question,Open-ended question,teach,18
+Communication,Clear Speaking and Writing,What is BLUF?,1,Bottom line up front|Lead with the conclusion,BLUF,teach,26
+Communication,Clear Speaking and Writing,How do you keep messages short?,1,One idea per message|Cut filler words|Use plain words,,teach,34
+Communication,Clear Speaking and Writing,How do you make a clear request?,1,Specific ask|Deadline|Reason,,teach,42
+Communication,Email and Chat Etiquette,A good email subject line,1,Subject line|Action needed,,teach,50
+Communication,Email and Chat Etiquette,"When to use email, chat or a call",1,Choosing the channel|Urgent vs important,,teach,58
+Communication,Email and Chat Etiquette,Tone in writing,1,Tone|Reply all etiquette,,teach,66
+Communication,Email and Chat Etiquette,Review: listening and writing,1,Active listening|Paraphrasing|BLUF|Subject line|Tone,,review,74
+Communication,Meetings,What makes a meeting worth holding?,1,Purpose|Agenda|Right attendees,,teach,83
+Communication,Meetings,How do you run a meeting?,2,Facilitating|Time-boxing|Parking lot,,teach,91
+Communication,Meetings,What happens after a meeting?,2,Action items|Owner and deadline|Meeting notes,,teach,99
+Communication,Presenting Ideas,How do you structure a talk?,2,Opening|Three key points|Call to action,,teach,107
+Communication,Presenting Ideas,How do you handle nerves?,2,Preparation|Slow breathing|Practice out loud,,teach,115
+Communication,Presenting Ideas,How do you answer tough questions?,2,Pause before answering|Bridge back|Say you don't know yet,,teach,123
+Communication,Body Language and Tone,What does body language say?,1,Posture|Eye contact|Gestures,,teach,131
+Communication,Body Language and Tone,How does your voice shape the message?,2,Pace|Volume|Pitch,,teach,139
+Communication,Body Language and Tone,Video calls and remote presence,2,Camera at eye level|Mute etiquette|Look at the lens,,teach,147
+Communication,Body Language and Tone,Review: communication,2,Active listening|BLUF|Tone|Action items|Open-ended question,,review,155
+Working With Others,Teamwork and Trust,What are the stages of a team?,2,Forming|Storming|Norming|Performing,Tuckman's stages,teach,163
+Working With Others,Teamwork and Trust,What is psychological safety?,2,Psychological safety|Speaking up,Psychological safety,teach,173
+Working With Others,Teamwork and Trust,How do you build trust?,2,Keep promises|Be transparent|Admit mistakes,,teach,181
+Working With Others,Giving Feedback,What is the SBI model?,2,Situation|Behavior|Impact,SBI model,teach,189
+Working With Others,Giving Feedback,Praise and criticism that work,2,Be specific|Timely feedback|Focus on behavior,,teach,197
+Working With Others,Giving Feedback,What is feedforward?,3,Feedforward|Future-focused suggestions,Feedforward,teach,205
+Working With Others,Receiving Feedback,How do you take feedback well?,2,Listen first|Ask for examples|Thank the giver,,teach,213
+Working With Others,Receiving Feedback,What is a growth mindset?,2,Growth mindset|Fixed mindset,Growth mindset,teach,221
+Working With Others,Receiving Feedback,Review: teamwork and feedback,2,Tuckman's stages|Psychological safety|SBI model|Feedforward|Growth mindset,,review,229
+Working With Others,Handling Conflict,What causes conflict at work?,2,Unclear roles|Competing goals|Miscommunication,,teach,238
+Working With Others,Handling Conflict,What are the five conflict styles?,3,Competing|Collaborating|Compromising|Avoiding|Accommodating,Thomas-Kilmann modes,teach,246
+Working With Others,Handling Conflict,How do you resolve conflict?,3,Interests not positions|Separate people from the problem,Interest-based approach,teach,258
+Working With Others,Negotiation Basics,What is BATNA?,3,BATNA|Walk-away point,BATNA,teach,266
+Working With Others,Negotiation Basics,What is anchoring in negotiation?,3,Anchoring|First offer,Anchoring,teach,274
+Working With Others,Negotiation Basics,What is win-win negotiation?,3,Win-win|Trade-offs|Shared interests,,teach,282
+Working With Others,Negotiation Basics,Review: working with others,3,Psychological safety|SBI model|Growth mindset|Collaborating|BATNA,,review,290
+Managing Yourself,Time Management,What is the Eisenhower matrix?,2,Urgent and important|Important not urgent|Urgent not important,Eisenhower matrix,teach,299
+Managing Yourself,Time Management,What is time blocking?,2,Time blocking|Calendar your priorities,Time blocking,teach,307
+Managing Yourself,Time Management,What is the Pomodoro technique?,2,Pomodoro technique|25-minute focus|Short break,Pomodoro technique,teach,315
+Managing Yourself,Prioritizing and Saying No,How do you decide what comes first?,2,Impact|Effort|Deadline,,teach,323
+Managing Yourself,Prioritizing and Saying No,How do you say no politely?,2,Acknowledge|Explain briefly|Offer an alternative,,teach,331
+Managing Yourself,Prioritizing and Saying No,What is scope creep?,3,Scope creep|Agree on scope,Scope creep,teach,339
+Managing Yourself,Focus and Procrastination,Why do we procrastinate?,2,Procrastination|Avoiding discomfort,Procrastination,teach,347
+Managing Yourself,Focus and Procrastination,Tricks to start,2,Two-minute rule|Break it down|Remove distractions,,teach,355
+Managing Yourself,Focus and Procrastination,What is deep work?,3,Deep work|Shallow work,Deep work,teach,363
+Managing Yourself,Focus and Procrastination,Review: time and focus,2,Eisenhower matrix|Pomodoro technique|Scope creep|Procrastination|Deep work,,review,371
+Managing Yourself,Stress and Burnout,What is burnout?,2,Burnout|Exhaustion|Cynicism|Reduced effectiveness,Burnout,teach,381
+Managing Yourself,Stress and Burnout,How do you set boundaries?,2,Work-life boundaries|Switching off|Taking breaks,,teach,391
+Managing Yourself,Stress and Burnout,How do you manage stress?,2,Sleep|Movement|Asking for support,,teach,399
+Managing Yourself,Goals and Habits,What are SMART goals?,2,SMART goal|Specific and measurable,SMART goal,teach,407
+Managing Yourself,Goals and Habits,What are OKRs?,3,Objectives and key results|Ambitious goals,OKR,teach,415
+Managing Yourself,Goals and Habits,How do habits form?,2,Cue|Routine|Reward,Habit loop,teach,423
+Managing Yourself,Goals and Habits,Review: managing yourself,3,Eisenhower matrix|Pomodoro technique|Procrastination|Burnout|SMART goal,,review,431
+Thinking and Deciding,Problem Solving,What is root cause analysis?,3,Root cause|Symptoms vs causes,Root cause,teach,440
+Thinking and Deciding,Problem Solving,What is the 5 Whys technique?,3,5 Whys|Keep asking why,5 Whys,teach,446
+Thinking and Deciding,Problem Solving,How do you generate options?,3,Brainstorm|Choose criteria|Test small,,teach,452
+Thinking and Deciding,Decision Making and Biases,How do you structure a decision?,3,Decision matrix|Weigh criteria,Decision matrix,teach,460
+Thinking and Deciding,Decision Making and Biases,What is confirmation bias?,3,Confirmation bias|Seek disconfirming evidence,Confirmation bias,teach,466
+Thinking and Deciding,Decision Making and Biases,What is the sunk cost fallacy?,3,Sunk cost fallacy|Ignore past spending,Sunk cost fallacy,teach,472
+Thinking and Deciding,Decision Making and Biases,Review: thinking and deciding,3,Root cause|5 Whys|Decision matrix|Confirmation bias|Sunk cost fallacy,,review,478
+Leading and Career,Delegating and Motivating,How do you delegate well?,3,Delegation|Clear outcome|Authority to act,Delegation,teach,487
+Leading and Career,Delegating and Motivating,What is micromanagement?,3,Micromanagement|Trust and check-ins,Micromanagement,teach,495
+Leading and Career,Delegating and Motivating,What is the GROW model?,3,Goal|Reality|Options|Will,GROW model,teach,501
+Leading and Career,Managing Up and Career Moves,What does managing up mean?,3,Managing up|Know your manager's priorities,Managing up,teach,511
+Leading and Career,Managing Up and Career Moves,What is the STAR method?,3,Situation Task Action Result|Behavioral interview,STAR method,teach,517
+Leading and Career,Managing Up and Career Moves,How do you network well?,3,Give first|Follow up|Stay in touch,,teach,523
+Leading and Career,Managing Up and Career Moves,"Review: thinking, leading and career",3,Root cause|Confirmation bias|Delegation|GROW model|STAR method,,review,531
