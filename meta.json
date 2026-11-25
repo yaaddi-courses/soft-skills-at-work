@@ -4,7 +4,7 @@
   "description": "The people skills that move careers: listening, writing and speaking clearly, feedback, conflict, negotiation, time and focus, decisions and leading others, built on proven frameworks you can use tomorrow.",
   "image": "cover.png",
   "file": "soft-skills-at-work.zip",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "tags": [
     "soft-skills",
     "workplace",
@@ -28,6 +28,11 @@
       "version": "1.0.2",
       "date": "2026-10-29",
       "notes": "Rewrites the Learn more articles in a warmer, teacher-to-student voice; no change to the content or the glossary."
+    },
+    {
+      "version": "1.0.3",
+      "date": "2026-11-24",
+      "notes": "Clearer question wording and explanations on many cards."
     }
   ],
   "toc": [
